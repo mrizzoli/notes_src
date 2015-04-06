@@ -1,0 +1,31 @@
+exclude: [ _posts/source ]
+highlighter: pygments
+safe: false
+paginate: 6
+
+scholar:
+  style: apa
+  sort_by: year
+  order: descending
+  source: ./biblio
+  bibliography: pistoso.bib
+  
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+markdown: Pandoc
+pandoc:
+  extensions: 
+    - smart
+    - mathjax
+    - bibliography: /home/marco/site_build/biblio/pistoso.bib
+    
+
+author:
+  name: Marco Rizzoli
+  givenName: Marco
+  familyName: Rizzoli
+  github: mrizzoli
+url: http://rizzoli.me.uk
+title: Notes and stuff by Marco Rizzoli
+name: Notes and stuff by Marco Rizzoli

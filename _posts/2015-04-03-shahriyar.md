@@ -3,8 +3,7 @@ layout: essay
 title: Influenze turche nella poesia Persiana di inizio 1900
 tags: [poesia, turco]
 categories:
-- poesia
-- turco
+- essay
 ---
 
 ##Introduzione

@@ -1,6 +1,8 @@
 ---
 published: true
 layout: essay
+categories:
+- notes
 ---
 
 ###Politiche della sussidiarietà: *safety nets*, *Vakif* e il movimento sindacale Turco

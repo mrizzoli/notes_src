@@ -2,33 +2,29 @@
 layout: default
 ---
 <div class="span9">
-	<div class="row-fluid">
-		<div class="span9">
+  <div class="row-fluid">
+    <div class="span9">
+      <h3>Recent Activity</h3>
+      <table class="table table-condensed">
 
-			<h3>Recent Activity</h3>
+        <tr>
+          <th>Tag</th>
+	  <th>Date</th>
+	  <th>Title</th>
+	</tr>
+        
+          {% for post in site.posts  %}
 
-				<table class="table table-condensed">
-				<tr>
-					<th>Tag</th>
-					<th>Date</th>
-					<th>Title</th>
-				</tr>
-				{% assign nonessays = site.posts | posts_without_essays %}
-				{% for post in nonessays limit:15 | sort:'date' %}
+        <ul class="post-list">
+          <tr>
+            <th>{{ post.categories }}</th>
+            <th><span> {{ post.date | date_to_string }} </span></th>
+            <th><li><a href="{{ post.url }}">{{ post.title }}</th>
+          </tr>
 
-					{% assign category = post.categories | get_project_category %}
-					<tr>
-					<td><a href="{{post.categories | get_raw_project_category | get_project_url }}">{{category}}</a></td>
-					<td>{{ post.date | date_to_string }}</td>
-					<td><a href="{{ post.url }}">{{post.title}}</a></td>
-					</tr>
-
-
-				{% endfor %}
-				</table>
-
-			
-    		</div>
-	</div>
-	
+          {% endfor %}
+        </ul>
+      </table>
+    </div>
+  </div>
 </div>

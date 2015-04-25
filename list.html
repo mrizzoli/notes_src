@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% for category in page.categories %}
+  {% for post in site.categories[category] %}
+    {{ post.title }}
+  {% endfor %}
+{% endfor %}

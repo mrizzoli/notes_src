@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="span9">
+  <div class="row-fluid">
+    <div class="span9">
+      <h3>Recent Activity</h3>
+      <table class="table table-condensed">
+
+        <tr>
+          <th>Tag</th>
+	  <th>Date</th>
+	  <th>Title</th>
+	</tr>
+        
+          {% for post in site.posts  %}
+
+        <ul class="post-list">
+          <tr>
+            <th>{{ post.categories }}</th>
+            <th><span> {{ post.date | date_to_string }} </span></th>
+            <th><li><a href="{{ post.url }}">{{ post.title }}</th>
+          </tr>
+
+          {% endfor %}
+        </ul>
+      </table>
+    </div>
+  </div>
+</div>

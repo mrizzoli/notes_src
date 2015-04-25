@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: Influenze turche nella poesia Persiana di inizio 1900
+title: Influenze turche nella poesia persiana di inizio 1900
 tags: [poesia, turco]
 categories:
 - essay
@@ -8,7 +8,7 @@ categories:
 
 ##Introduzione
 
-Scopo di questa tesina è presentare un'approfondimento sulle influenze turche nella poesia persiana, in particolare a partire dall'inizio del 1900, e mostrare come la particolarità dell'area azera, un'enclave turcofona in territorio persiano, le abbia permesso di svolgere un ruolo di collegamento sia con le innovazioni socio-culturali sviluppatesi nell'impero Ottomano [^12] che con le influenze europee soprattutto in ambito letterario e politico. 
+Scopo di questo saggio è presentare un'approfondimento sulle influenze turche nella poesia persiana, in particolare a partire dall'inizio del 1900, e mostrare come la particolarità dell'area azera, un'enclave turcofona in territorio persiano, le abbia permesso di svolgere un ruolo di collegamento sia con le innovazioni socio-culturali sviluppatesi nell'impero Ottomano [^12] che con le influenze europee soprattutto in ambito letterario e politico. 
 
 Come vedremo più approfonditamente in seguito non solo la vicinanza linguistica ma anche la presenza di uno spirito nazionalista che rivendicava indipendenza per la popolazione azera fornirono un terreno fertile per idee cosiddette moderniste che innovarono la produzione letteraria sia dal punto di vista formale che a livello di contenuti. L'utilizzo della lingua azerì, fino ad ora considerata *volgare* e inadatta alla forma poetica, fu visto come un mezzo per raggiungere appunto il *volgo* e differenziarsi dall'astrazione e dall'idealismo propri della poesia persiana classica. La nascita di giornali satirici in cui venivano criticati più o meno apertamente i cosiddetti signori della terra (*khan*) o il clero sciita e il grande successo di diffusione che ottennero sono un chiaro segno di un sentimento di oppressione di cui si ha testimonianza anche nella strenua resistenza posta dai cittadini di Tabriz contro l'esercito dello *Shah* durante la repressione che pose fine al Periodo costituzionale. 
 

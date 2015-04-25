@@ -32,6 +32,7 @@ module Jekyll
             " <a href=\"" + feed.entries[i].url + "\">" +
             feed.entries[i].published.strftime("%I:%M %Y/%m/%d") + "</a>" +
             "</li>"
+            "<hr>"
         end
         out + "</ul>"
       else

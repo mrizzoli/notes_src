@@ -1,11 +1,14 @@
 ---
-published: true
+published: false
 layout: essay
-categories:
-- notes
+categories: 
+  - notes
 ---
 
+
 ###Politiche della sussidiarietà: *safety nets* e *Vakif* 
+
+Ma se no una bella roba sull'Ottomano?
 
 1) Introduzione
     i. Rilevanza della società civile nei processi di state building

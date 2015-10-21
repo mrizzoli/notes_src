@@ -8,17 +8,17 @@ scholar:
   sort_by: year
   order: descending
   source: ./biblio
-  bibliography: pistoso.bib
+  bibliography: biblio.bib
   
 tag_page_layout: tag_page
 tag_page_dir: tag
 
 markdown: Pandoc
 pandoc:
-  extensions: 
+  extensions:
     - smart
     - mathjax
-    - bibliography: /home/marco/site_build/biblio/pistoso.bib
+    - bibliography: /home/marco/Downloads/notes_stuff/src/biblio/biblio.bib
     
 
 author:

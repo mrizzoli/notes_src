@@ -4,17 +4,23 @@ branches:
   only:
     - master
 
-sudo: false
+#sudo: false
 
-addons:
-  apt:
-    sources:
-    - ppa:marutter/c2d4u
-addons:
-  apt:
-    packages:
-    - pandoc
-    - pandoc-citeproc
+#addons:
+#  apt:
+#    sources:
+#    - ppa:marutter/c2d4u
+#addons:
+#  apt:
+#    packages:
+#    - pandoc
+#    - pandoc-citeproc
+
+before_install:
+  - sudo add-apt-repository ppa:marutter/c2d4u -y
+  - sudo apt-get update -q
+  - sudo apt-get install pandoc pandoc-citeproc -y
+
 
 install: 
   - travis_retry bundle install

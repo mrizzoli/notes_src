@@ -10,8 +10,8 @@ require 'date'
 require 'yaml'
 
 CONFIG = YAML.load(File.read('_config.yml'))
-USERNAME = CONFIG["mrizzoli"]
-REPO = CONFIG["notes_src"]
+USERNAME = "mrizzoli"
+REPO = "notes_src"
 EXTERNAL = "../_site"
 
 # Determine source and destination branch

@@ -5,6 +5,11 @@ branches:
     - master
 
 sudo: false
+
+addons:
+  apt:
+    sources:
+    - ppa:marutter/c2d4u
 addons:
   apt:
     packages:

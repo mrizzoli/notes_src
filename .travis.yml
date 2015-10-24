@@ -1,19 +1,18 @@
 language: ruby
-
+cache: bundler
 branches:
   only:
     - master
 
 sudo: false
-before_install:
 
 addons:
-apt:
-  sources:
-  - debian-sid
+  apt:
+    sources:
+    - debian-sid
 addons:
-apt:
-  packages:
+  apt:
+    packages:
     - pandoc
     - pandoc-citeproc
 

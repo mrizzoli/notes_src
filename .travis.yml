@@ -1,4 +1,4 @@
-language: haskell
+language: ruby
 
 branches:
   only:
@@ -21,7 +21,7 @@ script:
   #  - echo -e $twitter3 >> _twitter.yml
   #  - echo -e $garb > _garb.yml
   #  - echo -e $garb2 >> _garb.yml
-  - bundle exec rake site:deploy --quiet
+  - bundle exec rake site:deploy --trace
   #  - rm -f _twitter.yml _garb.yml
 
 env:

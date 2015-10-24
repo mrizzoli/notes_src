@@ -23,7 +23,7 @@ script:
   #- bundle exec rake site:deploy --quiet
   - cd _site
   - git init
-  - git remote add origin https://mrizzoli:b06638539dfa54e2f91be1502a4a81be651da7ec@github.com/mrizzoli/notes_src.git
+  - git remote add origin "https://${GIT_AUTH}@github.com/mrizzoli/notes_src.git"
   - git checkout -b gh-pages
   - git add --all
   - git commit -m "automatic travis update"
@@ -32,4 +32,5 @@ script:
   
 env:
   global:
-  - secure: JsKSItooc1uezqcNDVs09USokPMhtzGapFRl37REY8e14NsRnmfGoZuBkWXjx7oSXki4UcqUOfD6Cjm2mTCOc1zDkQWgb8/Wib4yDpFCUwF06N4IeWNpvak3NDzIduwB9dHHDbkO$
+  - secure: "U/DLO5iVFC99OVMbEdGblWuN2SPtBLBN+G3MEixkNy+0B0tXBW6fFuH3H6NPQxhlIcTKb5f6a654LtTFmEL456YYJetvYyvUteHw/uKK37/f0AERrbQmcuEoT+OBaEuUfWiD83HvPloL8Dr8IJ/c+jNljDQlwikN/hjhY/lYpO2uV74zk+RGv6XqyH7vJlDJoSNitz38I+PYgAixAChpZg/l1/mSPDlcmJFbtFirAfxyf5c4JCLxhZHqQOW4GdpS0+Kjc7J0pzmXNyg/V7nzg76SUHdevecJVjv52WjLmlxcykZM0gdrM5tKQ3YNgwKSpu35EahlQS4VFFhUg2WrZiEqztQqK7gw3kxHAzJQyCKr+Kh6A88QdXPKA1qW5A68ByYa3h45rzyhkKVDyq4CPWQatS7H0ZiyuNMspWrcZsWBLWAvO/Cm1plv3qAJD+hd4RjaAQTFtDh3vpwRL3wxekupsa0ydsatXHu5eidCwujFw8/m11zPpvCtEzIkP1JEJm6nUr78LZTycdxBB58e6lSRoup+ZMpqn5LD7ZF4NmZmHaO5oUWE8BxfZexc2k6XOdH5H6HqzDTEewlIBMo1SLzlN33dQaGch5H+SbSmsnCQFA84QyySmByOQyD7d8I9nPgRMTLobKJl/E1kwbjBwZhV1Ul/P1EgVONvvvi0fAI="
+  

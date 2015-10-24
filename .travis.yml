@@ -1,31 +1,29 @@
 language: ruby
-cache: bundler
+#cache: bundler
 branches:
   only:
     - master
 
-sudo: false
+#Al momento non funziona, apt da un errore durante l'installazione dei pacchetti
+#sudo: false
+#addons:
+#  apt:
+#    sources:
+#    - debian-sid
+#    packages:
+#    - pandoc
+#    - pandoc-citeproc
 
-addons:
-  apt:
-    sources:
-    - debian-sid
-    packages:
-    - pandoc
-    - pandoc-citeproc
-
-#before_install:
-#  - sudo add-apt-repository ppa:marutter/c2d4u -y
-#  - sudo apt-get update -q
-#  - sudo apt-get install pandoc pandoc-citeproc -y
+before_install:
+  - sudo add-apt-repository ppa:marutter/c2d4u -y
+  - sudo apt-get update -q
+  - sudo apt-get install pandoc pandoc-citeproc -y
 
 
 install: 
   - travis_retry bundle install
 
 script:
-  - echo -e $PWD
-  - ls -la $PWD
   # bundle exec jekyll build
   #  - echo -e $twitter > _twitter.yml
   #  - echo -e $twitter2 >> _twitter.yml

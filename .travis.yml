@@ -23,7 +23,7 @@ script:
   #- bundle exec rake site:deploy --quiet
   - cd _site
   - git init
-  - git remote add origin "https://21098d2f42cad08fe8ed784c201437fa2b257d79@github.com/mrizzoli/notes_src.git"
+  - git remote add origin https://e5dfd02c4fc643905a0265f332ce4157d8814e24@github.com/mrizzoli/notes_src.git
   - git checkout -b gh-pages
   - git add --all
   - git commit -m "automatic travis update"

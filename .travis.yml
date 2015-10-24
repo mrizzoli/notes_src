@@ -11,8 +11,8 @@ addons:
     - pandoc
     - pandoc-citeproc
 
-install: true
-  #- travis_retry bundle install
+install: 
+  - travis_retry bundle install
 
 script:
   ls -la

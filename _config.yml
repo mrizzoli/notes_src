@@ -1,3 +1,4 @@
+exclude: [vendor]
 exclude: [ _posts/source ]
 highlighter: pygments
 safe: false

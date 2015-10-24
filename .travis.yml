@@ -33,4 +33,4 @@ script:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - secure: REi1D/u32iOp1ODiCxTNAL9oU96nv3nEzcwbZ5VE3XVB1zsmcjk8iin8CXORpSJSX5h4dRlchi9l9k2YdkL5LJMtv4hITKD/HDRXRB+Qx8YHI0UeXZSsv/u55VQmhFqHqH+aKc0/$
+  - secure: JsKSItooc1uezqcNDVs09USokPMhtzGapFRl37REY8e14NsRnmfGoZuBkWXjx7oSXki4UcqUOfD6Cjm2mTCOc1zDkQWgb8/Wib4yDpFCUwF06N4IeWNpvak3NDzIduwB9dHHDbkO$

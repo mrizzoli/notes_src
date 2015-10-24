@@ -27,7 +27,7 @@ pandoc:
   - smart
   - bibliography: $PWD/biblio/biblio.bib
   
--exclude: [ _posts/source, .travis.yml, Gemfile,  Gemfile.lock, Rakefile]
+-exclude: [ Gemfile,  Gemfile.lock, Rakefile, .travis.yml, ]
 -highlighter: pygments
 -safe: false
 -paginate: 6  

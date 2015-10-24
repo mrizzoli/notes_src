@@ -4,13 +4,14 @@ branches:
   only:
     - master
 
-#sudo: false
+sudo: false
+before_install:
 
 addons:
 apt:
   sources:
   - debian-sid
-#addons:
+addons:
 apt:
   packages:
     - pandoc

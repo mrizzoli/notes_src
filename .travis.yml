@@ -12,10 +12,13 @@ addons:
     - pandoc-citeproc
 
 install:
-  - travis_retry bundle install
+  - install : true
+  #- travis_retry bundle install
 
 script:
- - bundle exec jekyll build
+  ls -la
+  ls -la $pwd/biblio
+  # - bundle exec jekyll build
   #  - echo -e $twitter > _twitter.yml
   #  - echo -e $twitter2 >> _twitter.yml
   #  - echo -e $twitter3 >> _twitter.yml

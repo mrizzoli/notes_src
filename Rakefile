@@ -9,8 +9,9 @@ require 'rake'
 require 'date'
 require 'yaml'
 
-USERNAME = "mrizzoli"
-REPO = "notes_src"
+CONFIG = YAML.load(File.read('_config.yml'))
+USERNAME = CONFIG["username"]
+REPO = CONFIG["repo"]
 EXTERNAL = "../_site"
 
 # Determine source and destination branch

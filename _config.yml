@@ -1,7 +1,15 @@
-exclude: [ _posts/source ]
-highlighter: pygments
-safe: false
-paginate: 6
+title: Notes and stuff by Marco Rizzoli
+name: Notes and stuff by Marco Rizzoli
+
+author:
+  name: Marco Rizzoli
+  givenName: Marco
+  familyName: Rizzoli
+  github: mrizzoli
+  url: http://rizzoli.me.uk
+
+username: mrizzoli
+repo: notes_src
 
 scholar:
   style: apa
@@ -19,11 +27,8 @@ pandoc:
   - smart
   - bibliography: $PWD/biblio/biblio.bib
 
-author:
-name: Marco Rizzoli
-givenName: Marco
-familyName: Rizzoli
-github: mrizzoli
-url: http://rizzoli.me.uk
-title: Notes and stuff by Marco Rizzoli
-name: Notes and stuff by Marco Rizzoli
+exclude:
+  .travis.yml
+  Gemfile
+  Gemfile.lock
+  Rakefile

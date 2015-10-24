@@ -3,8 +3,8 @@ rvm:
   - 2.1
 
 
-install: gem install jekyll html-proofer
-script: jekyll build  
+install: bundle install
+script: bundle exec jekyll build  
 
 # branch whitelist, only for GitHub Pages
 branches:

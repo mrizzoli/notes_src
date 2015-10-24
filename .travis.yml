@@ -2,6 +2,11 @@ language: ruby
 rvm:
   - 2.1
 
+# branch whitelist, only for GitHub Pages
+branches:
+    only:
+        - master     # test the gh-pages branch
+
 sudo: false
 addons:
   apt:
@@ -9,16 +14,18 @@ addons:
     - pandoc
 
 before_script:
- - chmod +x deploy.sh
+ - git config --global user.email "marco@rizzoli.me.uk"
+ - git config --global user.name "mrizzoli"
+ - git remote rm origin
+ - git remote add origin https://mrizzoli:${GH_TOKEN}@github.com/mrizzoli/notes_src.git
+ - git checkout gh-pages
+ 
 install: bundle install
-script: bundle exec jekyll build  
-after_script: ./deploy.sh
-
-# branch whitelist, only for GitHub Pages
-branches:
-    only:
-        - master     # test the gh-pages branch
+script: 
+  # - bundle exec jekyll build  
+  - bundle exec rake site:deploy --quiet
 
 env:
-    global:
-        - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - secure: REi1D/u32iOp1ODiCxTNAL9oU96nv3nEzcwbZ5VE3XVB1zsmcjk8iin8CXORpSJSX5h4dRlchi9l9k2YdkL5LJMtv4hITKD/HDRXRB+Qx8YHI0UeXZSsv/u55VQmhFqHqH+aKc0/$

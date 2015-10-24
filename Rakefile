@@ -9,7 +9,6 @@ require 'rake'
 require 'date'
 require 'yaml'
 
-CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = "mrizzoli"
 REPO = "notes_src"
 EXTERNAL = "../_site"
@@ -65,7 +64,7 @@ namespace :site do
     # Configure git if this is run in Travis CI
     if ENV["TRAVIS"]
       sh "git config --global user.name 'mrizzoli'"
-      sh "git config --global user.email 'marco@rizzoli.me.uk}'"
+      sh "git config --global user.email 'marco@rizzoli.me.uk'"
       sh "git config --global push.default simple"
     end
 

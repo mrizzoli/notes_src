@@ -15,8 +15,8 @@ install:
   - travis_retry bundle install
 
 script:
-  ls -la
-  ls -la $pwd/biblio
+  - echo -e $PWD
+  - ls -la $PWD
   # - bundle exec jekyll build
   #  - echo -e $twitter > _twitter.yml
   #  - echo -e $twitter2 >> _twitter.yml

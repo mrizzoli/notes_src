@@ -19,7 +19,7 @@ pandoc:
   extensions:
     - smart
     - mathjax
-    - bibliography: /home/marco/Downloads/notes_stuff/src/biblio/biblio.bib
+    - bibliography: ./biblio/biblio.bib
     
 
 author:

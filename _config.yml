@@ -8,7 +8,7 @@ scholar:
   style: apa
   sort_by: year
   order: descending
-  source: biblio
+  source: ./biblio
   bibliography: biblio.bib
   
 tag_page_layout: tag_page

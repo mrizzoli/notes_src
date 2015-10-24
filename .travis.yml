@@ -1,11 +1,20 @@
 language: ruby
+<<<<<<< HEAD
 rvm:
 - 2.1
+=======
+
+branches:
+  only:
+    - master
+
+>>>>>>> 1a39306f2931c7ccd82c557c9881edca3c323ee0
 sudo: false
 addons:
   apt:
     packages:
     - pandoc
+<<<<<<< HEAD
 before_script:
 - chmod +x deploy.sh
 install: bundle install
@@ -19,3 +28,23 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - secure: REi1D/u32iOp1ODiCxTNAL9oU96nv3nEzcwbZ5VE3XVB1zsmcjk8iin8CXORpSJSX5h4dRlchi9l9k2YdkL5LJMtv4hITKD/HDRXRB+Qx8YHI0UeXZSsv/u55VQmhFqHqH+aKc0/FTDDjAWykm0ryl2qc6RSsUnUHNjlMCjHL45Rx0nEVCcJ0bFxSE7acdaEw8gTXmYbaxHoAzVJv7ys3/ticMS5D6tRTS+Tg3lmjrxj9P9haEEQggbVwvsMDWKmv5HWmdJdAbsnnHTq4j2HmIiiTPGtOoxBlYs5a450FxQT+2+Gllztj1A/jiNcjBc46D2T/hMZdieNZENmgeZX4sUZembT/YnW7OWEXFbL6OW4j/QgXFGXcQ2GnMlLQ33orp//y022H+YjPo0nhgQX/cejYnKvG07nAMndfmmMobZD+NB8FuMghfjrZeBPg4d5sxFqyEPGWUIDPvQmXurnCIlqrdF6jHOiHledlE+YXsG+VqD3OzWiWNn1L1VBiAA7Wf1NEQ5vrSF2lhCykNiRGdE+O7WL1iOvteDD8K/osrcNQ06Sso2xN3tx1/n4Ar7kvCTJ+Ut+4S4cAeBej921g7r9rNN4GRaKatURUxtZ1En644PyffBFRFy4OzUoGr0doE+prQg7W/0UvWD7LJBznuwioYmVBOC1uyoluTFB7x4=
   - secure: JsKSItooc1uezqcNDVs09USokPMhtzGapFRl37REY8e14NsRnmfGoZuBkWXjx7oSXki4UcqUOfD6Cjm2mTCOc1zDkQWgb8/Wib4yDpFCUwF06N4IeWNpvak3NDzIduwB9dHHDbkOu2fv75TySBZME4fNhSx6ti0Snjn61vcfrS88wBuVCJajDSgdu/ray0V/vOO70aDn7yLgR+LzA0B7bpukuLVPOcCeWZwwVjnsDTw8IxfjKoHKOb9x/gEqs/a5HLHDjyfkQJQ9ZGT6NJlRsje3jOzHZBtAAl/wXFpJjvc6yZWk/lewpcNLLdh98XoZoI0IdT4dLmX3Tg3zh0gPNhZiSyLhuuC9KbJ4IiAICmp1PAalJ3ARBEZDvyMkLUmnoUEcjqvdglZSSCswYkbgoeuJPe4AGgB3RG/wfPH10yDrjplWB2g2CFveEnqUdD0Q+A5SuomOtBYA+0PDzQf8NIy9O0+3PzIl+s9nIMtmH8FU1wL+vd2icHbfdkh9lWSpqSwBLtVXAhR6tB1+9Z8dbCtwwBHE4RPjbRrmTRYGKsc1SxQpaLzz9ik1s6lcou6wlb93vK/7NsDxPnl8q/qrfOzao/5lVwn/n3P5y4m5mYU0/5EDvFcY0+eCLwK2yLvB4SZ/Pt2pOJgmhLjUzzhm4v/LHk/2rbvsOOcJawOHO0Q=
+=======
+    - pandoc-citeproc
+
+install:
+  - travis_retry bundle install
+
+script:
+  # - bundle exec jekyll build
+  #  - echo -e $twitter > _twitter.yml
+  #  - echo -e $twitter2 >> _twitter.yml
+  #  - echo -e $twitter3 >> _twitter.yml
+  #  - echo -e $garb > _garb.yml
+  #  - echo -e $garb2 >> _garb.yml
+  - bundle exec rake site:deploy --trace
+  #  - rm -f _twitter.yml _garb.yml
+
+env:
+  global:
+  - secure: hkMBU1M3g86rDj/sDeMQfn8F/2pG++uDmEp4DaVfk47jJ2dtn7oKRWNXJBXsl8zFrxblM4GSlzZMAD8hALrDAZ5Yp7tcRXPF5upx7GfE7OJq4sWbOvaQQZS4ZyKDDd4pl3Ik6cQYQzAgMxRY4D5vTFRBFWTa7+E3F8Ps4Lsc6sgS3utadvP2E0YJCLosvHjS7N85OaylK0lZflgHKIXULRRBgz0Swz+NBDb0VqbqXwiEE1uoZv4fLVb++5M6S0Hwc5yYr5Rc9Ti7M+k+GghWpS61JOuEpvd6wHnf+nUQQhX155eOmAByiJV7dva4/44fzfy8v4EYVjfvRMgCG8jLTEzWQhhLu7wrc8zNwpa3VX5qc2txRGdvQe6UDSYCsf9cOsM7Sw1sh8GbwUOTeBv86qG4QiWuXteeH9lTTFwk58Ea3BGvi0/XW413z92jcmXiHv5qJizIsjlbNjygPPfdXLG0WACy3wzBauS45OxI0YzX+JEO20LLorIIoUagykm7Q7eFqmSKu1g/DJeswIHZ56k1OCoWFDgEZUp0xK19ElaSVRtNmwUOL+JmLu6NJHkWpmQ6t9U7ECHyhsq8jqFnYJ1SEhMlEXPp2s27GUX+pyb61Hw0O4+3gmcrdZU//PjoTzwNF+JzjcrCzcITluhpUdSf8kkrijUOH78JH5GNPA8=
+>>>>>>> 1a39306f2931c7ccd82c557c9881edca3c323ee0

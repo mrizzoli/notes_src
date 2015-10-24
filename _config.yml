@@ -15,12 +15,6 @@ tag_page_layout: tag_page
 tag_page_dir: tag
 
 markdown: Pandoc
-pandoc:
-  extensions:
-    - smart
-    - mathjax
-    - bibliography: biblio/biblio.bib
-    
 
 author:
   name: Marco Rizzoli

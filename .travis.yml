@@ -8,8 +8,11 @@ addons:
     packages:
     - pandoc
 
+before_script:
+ - chmod +x deploy.sh
 install: bundle install
 script: bundle exec jekyll build  
+after_script: ./deploy.sh
 
 # branch whitelist, only for GitHub Pages
 branches:

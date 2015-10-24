@@ -16,15 +16,20 @@ addons:
 before_script:
  - git config --global user.email "marco@rizzoli.me.uk"
  - git config --global user.name "mrizzoli"
- - git remote rm origin
- - git remote add origin https://mrizzoli:${GH_TOKEN}@github.com/mrizzoli/notes_src.git
- - git checkout -b gh-pages
  
 install: bundle install
 script: 
-  # - bundle exec jekyll build  
-  - bundle exec rake site:deploy --quiet
-
+  - bundle exec jekyll build  
+  #- bundle exec rake site:deploy --quiet
+  - cd _site
+  - git init
+  - git remote add origin https://mrizzoli:${GH_TOKEN}@github.com/mrizzoli/notes_src.git
+  - git checkout -b gh-pages
+  - git add --all
+  - git commit -m "automatic travis update"
+  - git push origin gh-pages
+  - echo "sembra tutto a posto"
+  
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true

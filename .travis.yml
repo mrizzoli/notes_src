@@ -23,7 +23,7 @@ script:
   #- bundle exec rake site:deploy --quiet
   - cd _site
   - git init
-  - git remote add origin https://mrizzoli:${GH_TOKEN}@github.com/mrizzoli/notes_src.git
+  - git remote add origin https://mrizzoli:${'GH_TOKEN'}@github.com/mrizzoli/notes_src.git
   - git checkout -b gh-pages
   - git add --all
   - git commit -m "automatic travis update"
@@ -32,5 +32,4 @@ script:
   
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - secure: JsKSItooc1uezqcNDVs09USokPMhtzGapFRl37REY8e14NsRnmfGoZuBkWXjx7oSXki4UcqUOfD6Cjm2mTCOc1zDkQWgb8/Wib4yDpFCUwF06N4IeWNpvak3NDzIduwB9dHHDbkO$

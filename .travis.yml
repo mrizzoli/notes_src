@@ -1,6 +1,6 @@
-#language: ruby
-#rvm:
-#  - 2.1
+language: ruby
+rvm:
+  - 2.1
 
 # branch whitelist, only for GitHub Pages
 branches:
@@ -23,7 +23,7 @@ script:
   #- bundle exec rake site:deploy --quiet
   - cd _site
   - git init
-  - git remote add origin https://mrizzoli:7c6e313cf451e956b71c10ac5380cdd2bb88fab0@github.com/mrizzoli/notes_src.git
+  - git remote add origin https://mrizzoli:b06638539dfa54e2f91be1502a4a81be651da7ec@github.com/mrizzoli/notes_src.git
   - git checkout -b gh-pages
   - git add --all
   - git commit -m "automatic travis update"

@@ -11,4 +11,4 @@ gem "rake"#  , "~> 10.2.1"
 gem "jekyll-assets"   #, "~> 0.7.6"
 gem "jekyll-scholar"  #, "~> 2.0.0"
 gem "jekyll-pandoc"   #, "~> 0.0.1"
-gem 'pandoc-ruby'     #, '~> 0.7.5'
+

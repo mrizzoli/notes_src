@@ -2,6 +2,10 @@ language: ruby
 rvm:
   - 2.1
 
+sudo: required
+before_script:
+  - sudo apt-get update
+  - sudo apt-get install pandoc
 
 install: bundle install
 script: bundle exec jekyll build  

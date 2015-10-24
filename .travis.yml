@@ -17,7 +17,7 @@ install:
 script:
   - echo -e $PWD
   - ls -la $PWD
-  # - bundle exec jekyll build
+  - bundle exec jekyll build
   #  - echo -e $twitter > _twitter.yml
   #  - echo -e $twitter2 >> _twitter.yml
   #  - echo -e $twitter3 >> _twitter.yml

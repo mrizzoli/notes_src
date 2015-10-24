@@ -1,11 +1,8 @@
-language: ruby
-rvm:
-  - 2.1
+language: haskell
 
-# branch whitelist, only for GitHub Pages
 branches:
-    only:
-        - master     # test the gh-pages branch
+  only:
+    - master
 
 sudo: false
 addons:
@@ -13,23 +10,19 @@ addons:
     packages:
     - pandoc
 
-before_script:
- - git config --global user.email "marco@rizzoli.me.uk"
- - git config --global user.name "mrizzoli"
- 
-install: bundle install
-script: 
-  - bundle exec jekyll build  
-  #- bundle exec rake site:deploy --quiet
-  - cd _site
-  - git init
-  - git remote add origin https://${GH_AUTH}@github.com/mrizzoli/notes_src.git
-  - git checkout -b gh-pages
-  - git add --all
-  - git commit -m "automatic travis update"
-  - git push origin gh-pages
-  - echo "sembra tutto a posto"
-  
+install:
+  - travis_retry bundle install
+
+script:
+  # - bundle exec jekyll build
+  #  - echo -e $twitter > _twitter.yml
+  #  - echo -e $twitter2 >> _twitter.yml
+  #  - echo -e $twitter3 >> _twitter.yml
+  #  - echo -e $garb > _garb.yml
+  #  - echo -e $garb2 >> _garb.yml
+  - bundle exec rake site:deploy --quiet
+  #  - rm -f _twitter.yml _garb.yml
+
 env:
   global:
-  secure: "kqIpMUOfPf9MUksmBpo3GWh7sO/XcroU6AH3Mlh4wge5MVAb1ozGbp1UMvKVbiso/Y4ZKSQS/ZfDxhipC+ODbMQOur1grfeNt2Tb2YdrD8qxbPnQS5XU9ILCOVFtsvAzo8GPsEKM6BndnlqZyIrfiI+WQaikz/Nazj8hOK47IOKs4zt9v2+QJMSZ7JhNFFokI+FqOM/uskZD4Ff3kVqydhA/iKa+qLX2npb+sZBh9vetT89Il+gZ+96Othjjua3mgCdMx3L8vMafi/W0dpm0vok82mcaBrluu4EZrHFvMFb5VORo+eAjHuMesEFw8zSy3eaXEhSZjPUOMHGErOrzuaU6Vk3u61efXEogLOy+qHccB6E+A/+8Dsv1a0ps4P+X2LdqCpgSn0QzRpcsgAmYyTze7ga3V0fngr7ZrjI9JGZK3oBYpQWTeHba3NK1UJsgrOumCVB77iCixtuD56HWTtAnN+GMKuodFQ5C1uzEOAS0jqHbEEa7HyJ1xUXWuZxch16HZRTsXGAL3LOkd+MhAYSrzE1+egnuuCK3c+m20CYaT4g+sTLHc7sa6qiceA3YLGgGwpto7iMCAFmkP1c3N4T0NuIABuyd5SkF5ALtwnbdrQeRHUvQF0DuBSEBAQ1lwW1ejh7mAvjkOAXdWP7ImyQ/m1q+Hv9tfFoB3s8h/Ss="
+  - secure: jgH/rN3R+3rvD1L2YYXgEMqnkvgZ715DUNEvjMQ05pHqrYQCLOYuvRSELOz6rWqP4wuEK533YU+wLeqoo+HMNiCRDOwh5y9I1kBFBogbfF71k69VOSxg49McNuXqMvtgu/l4nIwWv5n7fYgdtHsqtUP8G9WtMTXliWXU6hO4TDVrS6yFkI9biFlROLSv1GA5/8lHGWdCbSjSpjNlrvjm7T4ecCyWm7Oo22h1zL7ObKgi3muvewB71yKtuibULtAeF0o5GMeylyVSRjp0ztOAJpdqx8UbYTh7wykcXrhr9W9itut4Iln1BAjDXizQQgBc/N0ptWHd3jmym4+F6Krz8/2FNfFmUExHaQ+SBOPIVnaGixDIQZqjK9DT0Ul8gJTfNlWhRR+9rajmJATdIGGZgBjbZIYNM6xcl+jLMKAPxF9XX+1b7oArJMsW9pRRBZlFOsOp+/A5QmM4vjrOfJV4NkEzuYNqdjILhjwF+FUsc6xHIrj83uYYnEGs7msz7TPkmYtgSztbER0lf/eleB5JZge8JVCTIfY/o5aRbTseEbd31KtvVmt21kvTKbqLmvrvUMbvM/CmdcVr3xf1sW9y9Em7SLWjUEnd+Jny+Fl0vAovIVHg0TLiEhkPPa60IEJujpLqKxZifumYJ7bGWarN9Kh3FbraSoxkqjX4fzlFXw4=

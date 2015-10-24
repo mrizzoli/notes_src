@@ -7,7 +7,7 @@ scholar:
   style: apa
   sort_by: year
   order: descending
-  source: ./biblio
+  source: $pwd/biblio
   bibliography: biblio.bib
 
 tag_page_layout: tag_page
@@ -17,7 +17,7 @@ markdown: Pandoc
 pandoc:
   extensions:
   - smart
-  - bibliography: biblio/biblio.bib
+  - bibliography: $pwd/biblio/biblio.bib
 
 author:
 name: Marco Rizzoli

@@ -10,8 +10,6 @@ addons:
   apt:
     sources:
     - debian-sid
-addons:
-  apt:
     packages:
     - pandoc
     - pandoc-citeproc

@@ -1,4 +1,4 @@
-# notes_src
+# notes_src [![Build Status](https://travis-ci.org/mrizzoli/notes_src.svg?branch=master)](https://travis-ci.org/mrizzoli/notes_src)
 
 Based on <a href="https://github.com/cboettig/labnotebook"> Carl Boettiger's </a> and <a href="https://github.com/mmadsen/lnraw"> Mark E. Madsen's </a> lab notebooks
 

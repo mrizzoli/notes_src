@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: essay
 title: Nation Building in Ottoman Empire
 tags: 

@@ -2,16 +2,6 @@
 published: false
 ---
 
----
-author:
-- Marco Rizzoli
-bibliography:
-- 'biblio/biblio.bib'
-date: 'January 14, 2013'
-title: Nation Building in late Ottoman Empire: “Ottomanization” of Nomadic Tribes
-
----
-
 Introduction
 ============
 

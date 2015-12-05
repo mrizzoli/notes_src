@@ -1,5 +1,5 @@
 ---
-published:true
+published: true
 layout: essay
 title: Capitolo
 tags: [tesi]

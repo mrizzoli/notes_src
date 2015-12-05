@@ -24,7 +24,7 @@ tag_page_dir: tag
 collections:
   tesi:
     output: true
-    permalink: /tesi/:path/
+#    permalink: /tesi/:path/
     
 markdown: Pandoc
 pandoc:

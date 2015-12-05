@@ -3,6 +3,10 @@ layout: default
 ---
 
 <div class="row">
+       <header>
+        <h1 class="entry-title">{{ page.title }}</h1>
+     </header>
+
   <div class="col-md-2"><i class="glyphicon glyphicon-calendar">&nbsp;</i>&nbsp;Modified: {{ page.path | prepend:'_posts/' | git_modified | date_to_string }}</div>
   <div class="col-md-2"><i class="glyphicon glyphicon-book">&nbsp;</i>&nbsp;{% greycite_bib_link type: bib %}</div>
   <div class="col-md-2"><i class="glyphicon glyphicon-book">&nbsp;</i>&nbsp;{% greycite_bib_link type: ris %}</div>
@@ -12,18 +16,13 @@ layout: default
 <br/> 
 </div>
       
-<div class="row">
   <div class="col-md-8">
   <div id="article">
     <article>
 
-     <header>
-        <h1 class="entry-title">{{ page.title }}</h1>
-     </header>
      <p class="text-justify">
 
        {{ content }}  
      </p>
     </article>
   </div>
-</div>

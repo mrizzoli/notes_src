@@ -66,7 +66,7 @@ namespace :site do
     if ENV["TRAVIS"]
       sh "git config --global user.name 'mrizzoli'"
       sh "git config --global user.email 'marco@rizzoli.me.uk'"
-      sh "git config --global push.default simple"
+    #  sh "git config --global push.default simple"
     end
 
     # Make sure destination folder exists as git repo
@@ -81,7 +81,7 @@ namespace :site do
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
     Dir.chdir(EXTERNAL) do
-			sh "rsync -a #{WORKDIR}/_site/* ."
+                        sh "rsync -a #{WORKDIR}/_site/* ."
       sh "git add --all ."
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
       sh "git push origin #{DESTINATION_BRANCH} --quiet"

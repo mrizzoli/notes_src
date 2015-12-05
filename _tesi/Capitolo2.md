@@ -80,6 +80,10 @@ Al giorno d'oggi vi sono quattro scuole giuridiche sopravvissute, di queste poss
 
 La scuola safi'ita, originata al Cairo, e fedele alle teorie di al-Safi'i si è diffusa soprattutto in Egitto meridionale e nel Corno d'Africa. Gli insegnamenti di Ibn Hanbal diedero origine all'omonima scuola di chiara matrice tradizionalista; caratteristica peculiare fu quella di rifiutare il ragionamento analogico e di concentrarsi sull'esegesi delle fonti per espandere il corpus degli hadit fino ad abbracciare il numero maggiore di casistiche possibile. Sul punto di scomparire nel XIV° secolo d.C. fu poi ripresa all'inizio del XX° secolo d.C. dal movimento wahhabita nato dall'alleanza tra Muhammad bin 'Adb al-Wahhab e Muhammad bin Sa'ud, futuro fondatore della dinastia Sa'ud, ora è la dottrina riconosciuta in Arabia Saudita.
 
+## Bibliografia
+
+## Note
+
 [^1]: Dalla radice *wqf*, "tenere", "contenere"; plurale: *awqaf*.
 [^2]: cfr [@abbasi_classical_2012].
 [^3]: Sulle teorie riguardanti l'origine del *waqf* vedi *infra*.

@@ -9,6 +9,10 @@ categories:
 
 # Conclusioni
 
+## Bibliografia
+
+## Note
+
 [^1]: Dalla radice *wqf*, "tenere", "contenere"; plurale: *awqaf*.
 [^2]: cfr [@abbasi_classical_2012].
 [^3]: Sulle teorie riguardanti l'origine del *waqf* vedi *infra*.

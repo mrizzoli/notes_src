@@ -184,7 +184,9 @@ Sempre per editto governativo vennero inoltre rimessi in discussione tutti gli a
 
 L'attività di controllo e supervisione fu condotta in maniera indiscriminata, e moltissime furono le fondazioni preposte al mantenimento di ordini di religiosi dediti al voto di povertà che ne furono affetti[^61], precipitando in una condizione di indigenza.
 
+## Bibliografia
 
+## Note
 
 [^1]: Dalla radice *wqf*, "tenere", "contenere"; plurale: *awqaf*.
 [^2]: cfr [@abbasi_classical_2012].

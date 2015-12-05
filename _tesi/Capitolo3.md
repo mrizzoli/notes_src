@@ -122,6 +122,11 @@ Nel discorso giuridico di *Abu Hanifa* i beni assoggettati ad un *waqf* devono e
 
 Non era raro che allo scopo di provvedere al mantenimento di strutture imponenti come complessi comprendenti moschee, ospedali e ospizi fossero sottoposti a vincolo interi villaggi o mercati. Una eventualità che si poteva verificare era quella che queste proprietà perdessero valore nel tempo e non fossero più in grado di generare una rendita sufficiente al sostentamento del *waqf*, fosse questo per danneggiamento da calamità naturale o per mutamenti di tipo socioeconomico. Era prevista, in questi casi, la possibilità di scambiare le proprietà divenute inutili per denaro o per altri beni fruttiferi che garantissero il funzionamento della fondazione[^21]. Se invece l'utilità della fondazione stessa veniva a mancare, come ad esempio il mantenimento di una moschea in un villaggio abbandonato, l'opinione più diffusa era di dedicare le rendite del *waqf* al sostentamento di servizi di una stessa tipologia in contesti in cui questi fossero fruibili, mantenendo così lo scopo perpetuo della fondazione.
 
+
+## Bibliografia
+
+## Note
+
 [^1]: Dalla radice *wqf*, "tenere", "contenere"; plurale: *awqaf*.
 [^2]: cfr [@abbasi_classical_2012].
 [^3]: Sulle teorie riguardanti l'origine del *waqf* vedi *infra*.

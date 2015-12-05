@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="col-md-8">
   <div class="row feed">
-    {% for tesi in site.tesi %}
+    <!--{% for tesi in site.tesi %} -->
     <!-- <h4>{{ category | first }}</h4> -->
     <h1>Il Waqf: un elemento di discontinuità tra dottrina hanafita e
     Impero Ottomano</h1>
@@ -15,11 +15,10 @@ layout: default
       
     <ol type="i">
       {% for tesi in tesi %}
-      <h3><li><a href="/tesi/{{ post.url }}">{{ tesi.title }}&nbsp;</a></li></h3>
+      <h3><li><a href="/tesi/{{ tesi.url }}">{{ tesi.title }}&nbsp;</a></li></h3>
       <hr>
       {% endfor %}
     </ol>
   </div>
-    {% endfor %}
 </div>
 

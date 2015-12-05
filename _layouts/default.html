@@ -1,15 +1,25 @@
-
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
   <body prefix="dc: http://purl.org/dc/terms/ og: http://ogp.me/ns#">
     {% include navbar.html %}
-    <div class="container">
-      <div class="col-md-offset-1">
+    <div class="container-fluid">
+      <!--  <div class="col-md-offset-1"> -->
+      <div class="col-md-4">
+        <header>
+          <h1>Mrizzoli.GitHub.io</h1>
+          <p>personal page</p>
+          <p class="view"><a href="https://github.com/mrizzoli">View
+              My GitHub Profile</a></p>
+          <p class="view"><a href="http://mrizzoli.github.io/notes_src">View
+              My Notebook</a></p>
+          <p class="view"><a href="http://mrizzoli.github.io/tesi">View
+              my MA Thesis</a></p>
+        </header>
+      </div>
 
         {{ content }}
 
-      </div>
     </div>
 
     {% include footer.html%}

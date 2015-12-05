@@ -13,7 +13,7 @@ layout: default
       
     <ol type="i">
       {% for tesi in site.tesi %}
-      <h3><li><a href="/tesi/{{ tesi.url }}">{{ tesi.title }}&nbsp;</a></li></h3>
+      <h3><li><a href="{{ tesi.url }}">{{ tesi.title }}&nbsp;</a></li></h3>
       <hr>
       {% endfor %}
     </ol>

@@ -4,14 +4,14 @@ layout: default
 <div class="span9">
   <div class="row-fluid">
     <div class="span9">
-      <h2>Notebook</h2>
-      <h3>Recent Activity</h3>
+      <!-- <h2>Notebook</h2> -->
+      <h2>Recent Activity</h2>
 
       <div class="row feed">
           
         {% for category in site.categories %}
         <div class="col-md-2">
-          <h4>{{ category | first }}</h4>
+          <h3>{{ category | first }}</h3>
           <ul>
             {% for posts in category %}
             {% for post in posts %}
@@ -27,7 +27,7 @@ layout: default
         </div>
         {% endfor %}
         <div class="col-md-2">
-           <h4>on github</h4>
+           <h3>on github</h3>
            {% github_feed mrizzoli, 5 %}
        </div>
       </div>

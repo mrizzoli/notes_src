@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Samarkand", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 66.974973099999943, 39.627012, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sazagan", "Description": "necropolis excavation and survey" }, "geometry": { "type": "Point", "coordinates": [ 66.7317295, 39.5323793, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Almaty", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 76.8512485, 43.2220146, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Taldysai", "Description": "proto urban excavation" }, "geometry": { "type": "Point", "coordinates": [ 67.0232964, 48.2137498, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Chirik Rabat", "Description": "Necropolis excavation and survey" }, "geometry": { "type": "Point", "coordinates": [ 62.914238, 44.085119, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Koç University", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 29.07245330000001, 41.2053081, 0.0 ] } }
+
+]
+}

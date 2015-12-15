@@ -13,7 +13,7 @@ tags:
 ---
 
 ## Notes on the working paper from Johns Hopkins Comparative Nonprofict Sector Project
-#### [see the paper online](/http://adm-cf.com/jhu/pdfs/CNP_Working_Papers/CNP_WP24.pdf)
+#### [see the paper online](http://adm-cf.com/jhu/pdfs/CNP_Working_Papers/CNP_WP24.pdf)
 
 Despite the increasing recognition of third sector organizations as part of economic growth and their preminent role in democratization processes and in welfare provision, the study and subsequently the comprehention of the inner mechanisms and specificities of nonprofit organizations [^1] remain poorly understood.
 

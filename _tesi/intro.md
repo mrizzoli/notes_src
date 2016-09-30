@@ -1,8 +1,8 @@
--   Introduzione
-    ============
+Introduzione
+============
 
 Risultato dell’elaborazione giuridica a partire da una tradizione
-probabilmente estranea a quella araba[^1], il *waqf[^2]* ebbe un
+probabilmente estranea a quella araba[^1], il *waqf*[^2] ebbe un
 notevolissimo successo in tutto il mondo musulmano. Il diritto musulmano
 non prevedeva il concetto di persona giuridica, nè l’esistenza di un
 sistema redistributivo della ricchezza, il *waqf* offrì una soluzione
@@ -79,50 +79,49 @@ Il tema verrà proposto secondo la seguente struttura: il primo capitolo
 tratterà della nascita e della canonizzazione della disciplina giuridica
 islamica allo scopo di fornire un inquadramento storico e normativo
 dell'argomento preso in esame. In seguito verrà esposta la disciplina
-ortodossa sul *waqf, *in particolare come elaborato dalla dottrina
+ortodossa sul *waqf*, in particolare come elaborato dalla dottrina
 ḥanafita facendo riferimento anche alle varianti malikite ed
-all'istituto del *waqf *famigliare come concepito e ammesso da Abu
+all'istituto del *waqf* famigliare come concepito e ammesso da Abu
 Yusuf, vista l'importanza che questo ricoprirà nei secoli successivi.
 Nel terzo capitolo si proporrà dapprima una contestualizzazione sulla
 evoluzione della dottrina giuridica nel mondo ottomano ed in seguito
 saranno proposti alcuni esempi sulle particolari forme assunte dal
 *waqf* in questo periodo e sulla importanza da questo assunta nel
-sistema di *welfare. *
+sistema di *welfare*.
 
 Alcune riflessioni concluderanno l'argomentazione si è avvertita la
 necessità di includere nell'elaborato un glossario contenente la
 traduzione dall'ottomano di lemmi relativi alle pratiche amministrative
-e istitutive degli *awqaf[^8]*^*.*^* L'*utilità e l'originalità di
-questo capitolo risiede nella specificità dei termini presentati in
-traduzione e dell'ambito del loro utilizzo e nel fatto che si tratta
-della prima collezione organica di questo tipo presentata in lingua
-italiana[^9]
+e istitutive degli *awqaf*[^8]. L'utilità e l'originalità di questo
+capitolo risiede nella specificità dei termini presentati in traduzione
+e dell'ambito del loro utilizzo e nel fatto che si tratta della prima
+collezione organica di questo tipo presentata in lingua italiana[^9]
 
-[^1]: ^^Sulle teorie riguardanti l’origine del *waqf* vedi *infra*.
+[^1]: Sulle teorie riguardanti l’origine del *waqf* vedi *infra*.
 
-[^2]: ^**^Dalla radice wqf*, “tenere”, “contenere”; plurale: *awqaf*.*
+[^2]: *Dalla radice wqf*, “tenere”, “contenere”; plurale: *awqaf*.
 
-[^3]: ^^cfr (Abbasi 2012).
+[^3]: cfr (Abbasi 2012).
 
-[^4]: ^^Si fa riferimento in particolare alla *Vehbi Koç Vakfı *e alla
-    *Hacı Ömer Sabancı Vakfı *fondate rispettivamente nel 1969 e nel
+[^4]: Si fa riferimento in particolare alla *Vehbi Koç Vakfı* e alla
+    *Hacı Ömer Sabancı Vakfı* fondate rispettivamente nel 1969 e nel
     1974.
 
-[^5]: ^^Si veda ad esempio: (Khan 2001) e (Lahsasna 2010)
+[^5]: Si veda ad esempio: (Khan 2001) e (Lahsasna 2010)
 
-[^6]: ^^In particolare ci si riferisce all'istituto del* waqf *fondato
+[^6]: In particolare ci si riferisce all'istituto del *waqf* fondato
     interamente tramite la donazione di beni deperibili o dai proventi
     sotto forma di interessi generati dal prestito di denaro.
 
-[^7]: ^^Cfr Conclusioni e (Mandaville 1979)
+[^7]: Cfr Conclusioni e (Mandaville 1979)
 
-[^8]: ^**^Si tratta di un elenco dei termini specifici più ricorrenti
-    come riscontrato negli atti fondativi conservati negli archivi del
+[^8]: *Si tratta di un elenco dei termini specifici più ricorrenti come
+    riscontrato negli atti fondativi conservati negli archivi del
     Vakıflar Genel Müdürlüğü*, è disponibile in Turco all'indirizzo
     http://www.vgm.gov.tr/sayfa.aspx?Id=30 , vi è anche una traduzione
-    inglese di discutibile qualità. *
+    inglese di discutibile qualità.
 
-[^9]: ^^Si segnala che in lingua inglese esiste qualcosa di simile
-    (Barnes 1986) che però compre un ambito marginalmente diverso e
-    viene presentato sotto forma di indice ragionato e descrittivo
-    invece che come glossario.
+[^9]: Si segnala che in lingua inglese esiste qualcosa di simile (Barnes
+    1986) che però compre un ambito marginalmente diverso e viene
+    presentato sotto forma di indice ragionato e descrittivo invece che
+    come glossario.

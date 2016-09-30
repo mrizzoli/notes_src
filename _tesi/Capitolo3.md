@@ -1,215 +1,1146 @@
----
-published: true
-layout: essay
-title: Capitolo
-tags: [tesi]
-categories:
-- essay
----
+##Capitolo 3: Il mondo ottomano
 
-# Il Waqf
+Una volta affermato il predominio nei territori dell’Anatolia e Rumelia,
+i sovrani ottomani cominciarono a considerarsi quali legittimi eredi
+delle tradizioni abbaside e selgiuchide; abbracciarono quindi la
+dottrina ḥanafita e si adoperarono per applicarla equamente in tutto il
+loro impero. Perseguendo questo scopo organizzarono il sistema
+dell’amministrazione della giustizia su base gerarchica con al vertice
+il *şeyhülislam* che era considerato la massima autorità religiosa nel
+nascente impero; veniva consultato in materia non solo religiosa ma
+anche politica soprattutto per sancire se una decisione presa dal
+sultano fosse o meno conforme alla *šari’a*. Era suo compito anche
+benedire o sanzionare dal punto di vista religioso le campagne di
+guerra. Suoi sottoposti erano i *qāḍi* veri e propri giudici e notai
+preposti alla ratifica di contratti e transazioni oltre che
+all’amministrazione giudiziaria vera e propria, era inoltre previsto un
+percorso formativo e di carriera unificato per raggiungere questa
+posizione, così da rendere uniforme l’applicazione della giustizia.
 
-@bearman_wakf
-@pamuk_monetary_2000
-## Teorie sull'origine del *Waqf*
+La principale divisione della società ottomana era basata sulla
+confessione religiosa, rispettando il detto del profeta che ogni
+comunità dovrebbe governarsi secondo le regole del suo credo. I *millet*
+erano funzionali a questo scopo, ogni comunità veniva così sottoposta
+alle proprie norme giuridiche ed aveva un rappresentante che si occupava
+dell’amministrazione della giustizia[^1], il *millet* musulmano comunque
+era quello predominante, soprattutto perché garantiva la possibilità di
+accedere alle cariche amministrative del governo centrale. La comunità
+islamica era a sua volta divisa in classi, sulla base dell’ambito di
+impiego nella struttura imperiale. Vi erano i dipendenti diretti del
+sultano o *mulkiyye*, i militari *seyfiyye*, i burocrati *qalemiyye* e
+gli scienziati e intellettuali *’ilmiyye*, di quest’ultimo gruppo
+facevano parte anche i *qāḍi*. Una grande divisione interconfessionale
+dei sudditi[^2] del sultano era quella basata sulla professione, di
+natura interconfessionale si realizzava in gilde o corporazioni che
+raggruppavano tutti i mestieranti a seconda del loro ambito di impiego.
 
-Nel Corano non si trovano indicazioni riguardanti questo tipo di istituzione, anche se spesso si fa riferimento, in termini peraltro ambigui, alla tradizione della *sadaqa* come *waqf* praticato dal Profeta e dai suoi seguaci. La canonizzazione di questa pratica è quindi, a tutti gli effetti, il risultato di un processo di creazione giuridica a partire da una tradizione che viene incorporata nel *fiqh* tramite la *igma* e il *qiyas*.
+Nella prassi amministrativa la distinzione più importante era tra i
+funzionari di corte, a loro volta distinti in “interni” ed “esterni”, e
+quelli di stato comprendente tutti i burocrati e governatori di
+provincia. Spesso la distinzione non era netta in quanto le cariche di
+alto rango potevano comprendere doveri di varia natura, un esempio
+eclatante è la figura del capo degli eunuchi, ovvero il *dâru’s-saâde
+ağaliği*[^3] che era incaricato anche della gestione delle *haremeyin
+evkaf*.
 
-Il termine stesso è diventato di uso comune solo nel III° secolo H., alla fine del periodo di formazione delle principali scuole giuridiche, a dimostrazione ulteriore dell'incorporazione tardiva e "sofferta" di questo tipo di negozio, formalmente in contraddizione con numerosi precetti coranici. Nei primi due secoli della giurisprudenza islamica erano utilizzati differenti termini in maniera quasi intercambiabile tra loro, le locuzioni più diffuse erano combinazioni di *sadaqa*, *hubs*, *muharrama*, *habis* e *mawqufa*. Il tratto comune era la necessità di esprimere sia il concetto di vincolo che quello di carità, di scopo benefico; la varietà terminologica riflette invece, il carattere regionale dello sviluppo della giurisprudenza e la probabile sovrapposizione a pratiche in uso prima della conquista araba.
+###3.1 *Siyasa* e *qāḍi*
 
-Sono state enunciate numerose teorie riguardo la possibile origine forestiera del *waqf*, non è possibile tuttavia ascrivere ad una singola tradizione straniera l'inclusione di questa pratica nel *fiqh*. Quello che risulta più plausibile, vista anche la lunga durata del processo di inclusione nella dottrina giuridica, è il graduale assorbimento di diverse tradizioni indigene, tutte diverse tra loro ma al contempo tutte aventi come oggetto la creazione di fondi fiduciari allo scopo di finanziare opere pie e di utilità sociale. Queste usanze vennero incorporate dapprima dalla scuola giuridica del luogo e successivamente elaborate in una scienza comune accettata come prassi. Il risultato finale non fu semplicemente una somma delle parti, ma una vera e propria appropriazione da parte della giurisprudenza islamica di elementi alloctoni rielaborati fino a creare una nuova e differente tipologia di fondazione pia.
+Sin dalla dinastia omayyade la necessità di organizzare il sistema
+amministrativo dell’impero aveva preso forma nella cosiddetta *siyasa
+šari’yya*, ovvero un sistema di governare la “cosa pubblica” che fosse
+conforme alle norme sciaraitiche. Questo prevedeva di estendere
+l’applicazione delle prescrizioni coraniche e del *fiqh* anche a quegli
+ambiti cui questi non facevano riferimento esplicito; con il passare del
+tempo questo assunse un valore sempre maggiore nella pratica
+amministrativa tanto da andare di fatto a sostituirsi alla
+giurisprudenza islamica vera e propria in svariati campi[^4]. La
+giustificazione giuridica della *siyasa* deriva dal principio
+dell’utilità pubblica, che prevede la possibilità di ammettere pratiche
+esterne o contrarie al *fiqh* quando queste portino a mantenere la pace
+sociale e perseguano la felicità dell’*umma*. Durante il periodo di
+codifica della giurisprudenza islamica si ricorreva molto più spesso ad
+altri espedienti per interpretare ed estendere l’applicazione delle
+norme, come la *istihsan* e la *istislah*,[^5] la *iğtihad* era infatti
+largamente praticata dai fondatori delle grandi scuole giuridiche. In
+seguito alla chiusura della riflessione personale sulle fonti coraniche
+e sugli *ḥadiṯ*, divenne sempre più complesso affrontare temi pratici
+affidandosi solo alle norme canonizzate nel *fiqh* classico; il ricorso
+alla *siyasa* fu quindi una evoluzione naturale nel pensiero giuridico
+amministrativo musulmano.
 
-### L'origine esterna e la teoria del sincretismo
+Collocata a margine delle norme sciaraitiche, la *siyasa* veniva in
+essere ove l’autorità superiore del *fiqh* non era in grado di fornire
+una risposta alla pratica di buon governo della comunità che era
+prerogativa e dovere dei sovrani. Lo scopo principe era quindi quello di
+garantire la capacità normativa agli amministratori in modo da
+permettere la risoluzione delle dispute e delle tensioni che avrebbero
+potuto disgregare la comunità. Il ricorso alla dicitura *siyasa
+šari’yya* è utilizzato per sottolineare che se pur una disposizione è
+apparentemente contraria ad una norma sciaraitica, lo è unicamente per
+porre una soluzione pratica e percorribile ma al contempo rimane fedele
+agli scopi essenziali della dottrina religiosa. Le modalità con cui
+questa potesse andare ad integrare il *fiqh* furono oggetto di
+approfondita analisi da parte delle *maḏahib*, ognuna delle quali
+elaborò un suo principio sugli ambiti di applicazione.
 
-La prima teoria sulle origini del *waqf* è quella che lo fa risalire al concetto romano di *res sacrae* e a quello bizantino di *piae causae*; le similitudini sembrano a prima vista molto forti: il connotato religioso di vincolare un bene alla divinità e alla gloria di Dio, il fatto che questi beni fossero quindi inalienabili e non soggetti alle leggi terrene e l'amministrazione di questi concessa ad un soggetto terzo. Sono tutti elementi che ritroviamo anche nelle fondazioni pie del mondo islamico. Le somiglianze però si fermano qui, e vi sono invece numerosi punti di contrasto che non permettono di accettare queste pratiche come originarie in particolare, si può notare come la natura dei beni vincolati sia diversa. Nell'istituto romano questi sono esclusivamente i luoghi sacri mentre nel diritto musulmano sono comprese anche le proprietà destinate alla generazione di rendite; anche l'atto di creazione è differente in quanto una *res sacrae* viene istituita dall'alto, ovvero dal senato romano, mentre il *waqf* ha innanzitutto una natura di tipo privato sia nella sua fondazione che nella amministrazione; questa è anche una importante discrepanza rispetto alla *piae causae* bizantina, oggetto di un fenomeno di accentramento durante il regno di Costantino, tanto che le donazioni durante il periodo bizantino si possono considerare essere delle devoluzioni alla Chiesa stessa piuttosto che alla creazione diretta di una fondazione.
+La posizione più diffusa è quella per cui i *qāḍi* debbano astenersi dal
+formulare giudizi ricorrendo alla *siyasa*, riconoscendo in questa una
+forma di arbitrarietà che in ambito giuridico sarebbe appannaggio
+esclusivo dei fondatori delle scuole, gli unici cui veniva riconosciuto
+il diritto all’*iğtihad* . Secondo gli hanafiti, i Şafi'iti e parte
+degli hanbaliti quindi solamente il potere esecutivo, dovendosi
+confrontare più direttamente con la materialità della vita quotidiana e
+della politica, sarebbe legittimato al ricorso alla *siyasa*. Gli organi
+di polizia, i tribunali *mazalim*, e i governanti quindi possono
+prendere decisioni in materia civile e penale anche senza fare ricorso
+diretto alla *šari’a*. Per i malikiti invece è previsto che anche i
+*qāḍi* ne facciano uso, e ammettono anche l’inclusione della *siyasa*
+nel fiqh. Una parte della scuola ḥanbalita invece mantiene una posizione
+che si basa sulle contingenze del caso, permettendone l’impiego
+circostanziale[^6].
 
-Un'altra tradizione che viene comparata al *waqf* è il *heqdesh* ebraico, che indica dei beni messi a disposizione per opere di carità; gli scopi previsti per questi negozi sono molto simili, come lo è anche l'amministrazione affidata ad un terzo soggetto in qualità di fiduciario e la supervisione di questi da parte di un giudice. Anche il *heqdesh* estranea la proprietà dal donatore e rende il bene donato non più soggetto a forme di transazione se non quelle legate alla creazione di un profitto. Le somiglianze sono però giustificate dallo sviluppo quanto meno parallelo di queste pratiche, anche il fatto che si ritrovano riferimenti espliciti ai termini arabi *waqf* e *hubs* negli atti relativi al *heqdesh* non supporta certo la teoria che fa derivare la tradizione araba da quella ebraica[^65].
+Nel mondo musulmano, ed in particolare quello arabo, la maggior
+preparazione e il maggior potere dei *qāḍi* e dei *fuqaha* pose numerosi
+limiti all’applicazione pratica della *siyasa* come metodo di emettere
+giudizi; essi, legati alla tradizione sciaraitica, si opposero e
+ostracizzarono l’introduzione di norme derivate da questa pratica e
+grazie alla loro autorità riuscirono ad impedirne una vera diffusione.
+Ciò invece non avvenne nell’Impero Ottomano, dove:
 
-Il paragone sicuramente più vicino, e che secondo alcuni offre anche la spiegazione effettiva sull'origine del *waqf*, è quello che fa riferimento a pratiche persiane del periodo Sassanide, infatti secondo A. Perikhanian:
+> “la siyasa ha avuto la possibilità di dispiegarsi e di operare in modo
+> radicale ed incisivo sul ‘corpus sciaraitico’ tanto da dar vita ad un
+> vero e proprio *sistema giuridico binario*, sul quale si è poi
+> innestato il fenomeno della ricezione di concezioni giuridiche
+> occidentali, proprio mediante incorporazione di complessi di norme
+> positive nell’ambito della *siyasa*. In tal modo si è aperto il varco
+> alla moderna attività legislativa degli stati a popolazione musulmana
+> contemporanei, in molti dei quali il diritto musulmano viene
+> recuperato come materiale da costruzione per interi settori
+> dell’ordinamento giuridico”[^7].
 
->"There can be no doubt of the Iranian origin of the Muslim *waqf*. [...] The conditions and the forms of the foundation are the same, including the irrevocability of the act of the institution. Similar too is the way of administerin *waqf* properties through trustees (*nazir*, *mutawalli*) nominated (at least in the case of the first trustee) by the founder (*wakif*) himself"
+I provvedimenti legislativi emanati dai sultani ottomani prendevano
+forma nel *qanun*, che può indicare sia una raccolta o un vero e proprio
+corpus di norme che un singolo regolamento o editto. Poteva essere usato
+anche con l’accezione generica dell’insieme delle leggi cui far
+riferimento: *qanun-i şer*, *qavanin-i şer’iyye*. Un sinonimo spesso
+utilizzato è *’örf*, nel senso di usanza che è stata inglobata nella
+dottrina legislativa[^8]. Espressione della volontà del sultano nella
+sua facoltà di ricorrere alla *siyasa* per mantenere la pace sociale e
+per la pubblica utilità, i *qanunname* consistono soprattutto in
+raccolte di editti, ognuno slegato dagli altri per oggetto di
+riferimento, che possono riguardare regioni o città specifiche o essere
+da applicare in tutto l’impero. Non ci troviamo quindi di fronte ad un
+vero e proprio codice ma, piuttosto, a fonti documentali il cui scopo è
+riunire in un unico tomo gli atti che andavano a normaare la gestione
+pubblica e l’amministrazione della giustizia in un particolare luogo ed
+in un particolare momento. Secondo il Castro la pratica di premettere
+una *fatwa*, scritta da un *mufti* o dal *şeyhülislam* in persona, aveva
+una funzione per lo più psicologica che reale. D’altronde l’autorità dei
+giuristi sciaraitici era ancora molto riconosciuta, tanto che in molti
+casi era chiesta la loro opinione anche su materie che teoricamente li
+riguardavano marginalmente, come per l’appunto il *qanun*, questioni di
+*siyasa* o norme legate al diritto fondiario[^9].
 
-Anche la scissione della proprietà in diritto di utilizzo e nuda proprietà è presente sia nella tradizione araba che in quella sassanide, ad ulteriore supporto di questa tesi; questa viene però criticata da P.C. Hennigan con la motivazione che sostenere una derivazione unica dalla pratica in uso in Iran non permetterebbe di spiegare le numerose similitudini ritrovate in ambito romano, bizantino ed ebraico. Secondo lui infatti:
+Nata per integrare il *fiqh*, la pratica della *siyasa*, realizzata dal
+sultano negli editti da lui promulgati, si trovò spesso in contrasto con
+la *šari’a*. Nel cosiddetto diritto pubblico non si realizzò in
+sovrapposizioni particolarmente evidenti, soprattutto perché le norme
+sciaraitiche sono spesso lacunose o mancanti riguardo alle pratiche
+amministrative e sui rapporti tra stato e cittadino. Nel diritto penale
+invece, si ha una una situazione più complessa, in cui molto spesso il
+*qanun* si conforma alle dottrine espresse dalla *šari’a*, o quantomeno
+ne fa riferimento per quanto riguarda i reati e le pene a livello
+teorico, lasciando al contempo una maggior discrezionalità nei confronti
+del giudizio effettivo. In particolare la tendenza è quella di
+privilegiare le pene pecuniarie, anche imponendole nella prassi
+giudiziaria, in contrasto a quanto espresso dalla legge coranica[^10].
+Questa contrapposizione si verifica anche in virtù del fatto che,
+essendo il potere giuridico appannaggio del sultano, sia necessario un
+editto imperiale per imporre una pratica giudiziaria. In questo modo se
+un *muftì* emette una *fatwa*, i *qāḍi* non sono automaticamente tenuti
+a rispettarla, essendo la validità di questa basata non sull’autorità
+religiosa ma su quella imperiale. Si realizza così un’ingerenza di
+fondamentale importanza da parte del sultano in pratiche che sarebbero
+teoricamente appannaggio dei giuristi sciaraitici. La supremazia
+imperiale sulla regolarizzazione giuridica oltre che sulla pratica
+amministrativa si esplicita anche nel progressivo mutamento semantico
+della stessa terminologia, divenne infatti di uso sempre più comune
+utilizzare la locuzione “secondo la *šari’a*” con il significato
+generico di “ai sensi di legge”, comprendendo anche il *qanun* oltre che
+il *fiqh* classico[^11].
 
->"[...]the *waqf* is infused with elements of foreign practices. [...] The creation of the signifier *waqf* was a unique islamic solution to what may have been the predominant problem facing jurists in the third Islamic century- the creation of a coherent Islamic law within the context of an increasingly heterogeneous Muslim population whose cultural (and legal) practices had origins outside an Arab-Islamic context. If "foreign" practices seeped into the substantive law of *waqf*, they likely did so unconsciously, as an unintended byproduct of the treatise authors' attempts to bring order in this area of law."[^66]
+###3.2 Il sistema fondiario e il *vakf* Ottomano
 
+####3.2.1 Il periodo delle conquiste 
 
-### *Sadaqa* e *mawqufa*
+I beni immobiliari venivano divisi dal *fiqh* in proprietà privata,
+*mulk* e proprietà del tesoro (*bayt al-mal*), *arḏ al-mamlaka*. A
+queste due tipologie si vanno ad aggiungere i terreni oggetto di
+conquista, considerati come bottino di guerra, le cui rendite sotto
+forma di *harag*, una tassazione formalmente imposta a tutti i sudditi
+non convertiti all’Islam, dovevano essere versate al *bayt al-mal* per
+andare a beneficio della comunità. I musulmani erano invece soggetti
+alla *‘uşr* ovvero una decima dovuta sulle loro rendite. A questa
+categorizzazione vi sono due principali eccezioni, la prima riguarda la
+pratica del *temlik*, ovvero l’assegnazione della proprietà reale su di
+un immobile per decreto imperiale, la seconda invece è relativa ai
+centri abitati principali e a tutto ciò che si trova nelle vicinanze che
+viene considerato *mulk*. Lo status giuridico non è nella pratica così
+ben definito in quanto soggetto a mutamenti di interpretazione nel corso
+dei tempi, sia per quanto riguarda l’identificazione dei territori
+conquistati sia in ambito di tassazione, visto che fu l’ambito di
+applicazione dell’*harağ* venne esteso a tutti i terreni di conquista
+anche se assegnati a conduttori o proprietari musulmani, quindi
+inizialmente esentati.
 
-Questo processo di appropriazione di fenomeni almeno parzialmente estranei alla cultura araba si esplica nella pratica dialogica, operata nella canonizzazione del diritto islamico, tra le fonti direttamente ascrivibili al Profeta, come il Corano e gli *hatidh*, e le prassi tradizionali sia arabe preislamiche che facenti parte del bagaglio cuturale delle popolazioni sottomesse. Di pari passo con le conversioni religiose e l'inclusione nell'*umma* delle comunità conquistate, anche il distinguo tra pratiche puramente arabe autoctone e straniere divenne sempre più labile, così da includere anche tradizioni formalmente alloctone in quell'insieme di usanze che i giuristi del III° secolo H. si trovarono ad affrontare per creare un *corpus* unico di precetti. La possibilità di integrare le indicazioni presenti nel Corano tramite la tecnica di legittimizzazione a posteriori, ovvero di far risalire ai compagni del Profeta se non a *Muhammad* stesso determinate pratiche, permise di accettare nella *sari'a* una serie di istituzioni riguardanti la creazione di fondi fiduciari a scopo benefico o religioso non menzionate nella rivelazione del Profeta; rimaneva però il problema di uniformare il tutto secondo una normativa giuridica di matrice islamica.
+Seguendo un delle principali teorie ḥanafite durante l’Impero Ottomano
+tutti i terreni *harağ* vennero considerati di proprietà del tesoro,
+lasciando alle popolazioni sottomesse solo il diritto all’utilizzo,
+dietro il pagamento dell’imposta dovuta. Solo in pochi casi, secondo
+l’interpretazione di Abu Yusuf quando la conquista avveniva in maniera
+pacifica, i sudditi non convertiti potevano mantenere il *mulk*,
+rimanendo comunque soggetti alla stessa tassazione dovuta da tutti i non
+musulmani. In pratica questo fenomeno si verificò più che altro in
+ambito cittadino e fu di rilevanza estremamente limitata. Vista
+l’estensione delle conquiste arabe e le differenti pratiche
+amministrative che si trovarono ad in contrare l’applicazione della
+tassazione e il concetto di proprietà terriera potevano variare da un
+territorio all’altro, possiamo però vedere una costante nella pratica
+del *qata’i*, molto utilizzata soprattutto per mantenere la produttività delle
+coltivazioni. Si trattava di una forma di enfiteusi per cui pur
+riconoscendo la proprietà ultima nel *bayt al-mal*, viene conferito ad
+un soggetto il diritto di riscuotere le tasse dovute su di un terreno o
+territorio. La tipologia della tassazione veniva decisa a livello
+amministrativo, e il titolare era tenuto a pagare la decima dovuta dai
+soggetti musulmani, non poteva inoltre esigere ulteriori tasse oltre a
+quelle prestabilite pena la revoca della concessione. Questa forma di
+distribuzione di proprietà si rivelò di successo tanto che ebbe un
+prosieguo anche durante l’Impero Ottomano sotto la forma del *timar*, in
+questo tipo di contratto l’affidatario ha diritto all’estrazione delle
+tasse, ed ha anche più libertà in questo, me era tenuto al servizio
+militare in cambio, per le proprietà più estese era prevista la
+fornitura di interi reparti di cavalleria.
 
-Una delle prime questioni affrontate dai *fuqaha* fu la necessità di definire il *waqf* in maniera inequivocabile e distinguerlo da altre forme di passaggio di proprietà già presenti nel Corano come la *sadaqa* e la *zakat*; in particolare nei primi trattati di giurisprudenza sulle fondazioni pie venne fatta ampia analisi del tipo di formulazione e dei termini utilizzati per determinare se un atto di carità fosse o meno identificabile come *waqf*. La necessità era quella di poter esprimere chiaramente che il tipo di vincolo creato fosse da un lato di "blocco" della proprietà per quanto riguarda future transazioni economiche e dall'altro che questo era realizzato allo scopo di finanziare opere di carità. Veniva così definendosi l'atto di dividere un bene in *rakabe* e *tasarruf* così da poter rendere inalienabile la prima e mettere a disposizione di un fiduciario il secondo. Importante differenza dall'atto di carità descritto come *sadaqa* era il vincolo perpetuo creato, quest'ultima infatti consisteva o in un dono a tutti gli effetti, quindi un passaggio di proprietà da un soggetto ad un altro, o in un diritto di godimento dei frutti generati da un bene ma di carattere temporaneo, solitamente coincidente con la morte del proprietario[^25].
+Agli albori dell’espansione ottomana, la necessità di ricorrere ad
+alleanze con potentati locali portò ad una frammentazione del territorio
+sotto il controllo statale dovuto all’utilizzo eccessivo del *temlik*;
+in particolare le tribù Turcomanne beneficiarono di ingenti proprietà,
+ed estesero la loro influenza sia in anatolia orientale che nei balcani,
+dove guidarono la spinta espansionistica del nascente impero. Per molti
+di questi capi tribali il sistema del *timar* rimpiazzò la ricompensa
+tramite il bottino di guerra, scelta che per l’impero si rivelò
+funzionale solo nel breve periodo vista l’eccessiva influenza che questi
+acquisirono col tempo che portò ad un fenomeno di pericolosa
+decentralizzazione, come già fu chiaro in seguito ai falliti tentativi
+di ristabilire un’autorità indiscussa da parte di Mehmet II.
 
-Da sottolineare il fatto che veniva considerato insufficiente, come vincolo a scopo caritatevole, l'utilizzo del termine *waqf*; solo in seguito alla canonizzazione del III° secolo H. esso divenne di uso comune nell'accezione di "fondazione pia"; in precedenza era utilizzato genericamente con il suo proprio significato di "vincolo"[^67]. Per esplicitare inequivocabilmente l'atto di assoggettare una proprietà allo scopo di sovvenzionare delle opere di bene era considerato necessario l'utilizzo sia del termine *sadaqa* che di *mawquf*, o suoi sinonimi come *hubs*, *habis*, *mahbusa* o *muharrama*.
+Il ricorso estensivo invece alla creazione di *miri arazi*, ovvero
+territori sotto il controllo diretto del tesoro oltre che di teorica
+proprietà, viene fatto risalire tra la fine del XIV° e l’inizio del XV°
+secolo d.C. con la conquista dell’attuale Albania[^12]; nella pratica
+quotidiana vediamo però come non solo la popolazione ma anche gli
+amministratori locali non rispettassero le intenzioni dei sultani.
+Secondo *Ebüsuud Efendi*, gran muftì al tempo di Soleimano il Magnifico,
+andando ad analizzare i registri catastali ed esattoriali si può vedere
+come questi territori non venivano trattati nè come *arazi-i öşriye* nè
+come *haracıye* per quanto riguarda la tassazione e per di più venivano
+effettuate transazioni patrimoniali come se fossero di piena proprietà,
+il fatto che anche i *qāḍi* locali asseverassero queste compravendite,
+che includevano anche fondazioni (in teoria illegittime) di *waqf*,
+dimostra come la prassi delle amministrazioni locali fosse indipendente
+dal controllo centrale.
 
+Secondo la definizione data da *Ebüsuud Efendi*, le terre sotto il
+dominio ottomano si possono dividere nelle seguenti tipologie:
 
+**Arazi-i öşriye**: sono i primi territori conquistati durante
+l’espansione dell’Islam e redistribuiti ai credenti. Questi ne sono i
+legittimi proprietari e possono disporne a loro piacimento; essendo
+musulmani l’unica imposta cui sono soggetti è appunto la *öşr*, o decima
+sul raccolto, che sarebbe teoricamente destinata ai poveri (*zakāt*).
 
-## Definizione e caratteristiche principali
+**Arazi-i haraciye**: terreni nelle zone conquistate e lasciati in
+gestione alle popolazioni non musulmane, devono pagare il *harac-ı
+mukaseme* che corrisponde ad una frazione del raccolto calcolato sulle
+capacità produttive dell’appezzamento e sul tipo di irrigazione, si
+tratta comunque di una percentuale superiore a quella dovuta dai
+musulmani. Oltre a questa vi è anche un’imposta annuale (*haracıye
+muvazzaf*) che può essere considerata come una patrimoniale a scopo di
+indennizzo per la protezione offerta dalla comunità islamica. Anche
+questi terreni sono in piena proprietà (*mulk*) da parte dei loro
+detentori e possono essere venduti, ereditati e vincolati liberamente.
+Una particolarità di queste proprietà è che mantengono il tipo di
+imposizione fiscale anche in caso di passaggio di proprietà, se
+acquistate da un musulmano rimangono quindi soggette ai due *harac*.
 
-Il diritto islamico definisce il *waqf* come un bene che viene vincolato dal suo proprietario allo scopo di sovvenzionare una particolare categoria di individui o di soddisfare uno scopo esplicitato dal detentore dei beni al momento della creazione del vincolo stesso. Caratteristica principe di questo negozio è la perpetuità e l'inalienabilità, il bene non può quindi essere nè ceduto nè interrotto o revocato[^9]. Secondo Francesco Castro[^68] possiamo distinguere due tipologie principali, a cui se ne aggiunge una terza di minore valenza, ognuna con sue peculiarità dipendenti dalla funzione:
+**Arazi-i memleket** o **miri arazi**: questi sono a tutti gli effetti
+terreni di tipo *haraci* ma la *rakabe* rimane nelle mani del tesoro, i
+conduttori hanno diritto solo all’utilizzo, non perpetuo, del bene che
+peraltro non va in successione, sono comunque sottoposti allo stesso
+tipo di tassazione dei terreni *haraci* anche se in questi casi le due
+imposte si chiamano *öşür* e *çift akçesi*. Non avendo nessun diritto di
+proprietà quindi queste terre non possono essere cedute o vincolate in
+un *waqf* e neanche ereditate.
 
-i. *Waqf hayri* o *Waqf khayri*. Questo è il tipo di istituto il cui scopo è puramente pio, le rendite dei beni vincolati vengono interamente devolute in opere di bene o di pubblica utilità senza nessun tipo di beneficiario che non sia la comunità stessa. Ha caratteristica intrinseca di perpetuità e il fondatore non può in nessun modo rientrare in possesso delle proprietà. Particolare sottotipologia è il *waqf haremeyin* destinato al sostentamento dei luoghi sacri dell'Islam, in particolare i monumenti nelle città di Mecca e Medina.
+Secondo John Robert Barnes sarebbe stato più logico decretare come
+*harac* tutte le terre di conquista, ma:
 
-ii. *Waqf ahli* o famigliare. Lo scopo di questo negozio viene scorporato in beneficiari intermedi e beneficiari ultimi, lo scopo benefico di questa fondazione è posticipato all'estinzione della categoria dei beneficiari intermedi. Questi sono solitamente persone fisiche membri della famiglia o aventi legami con il fondatore che fruiranno delle rendite della fondazione fino a che saranno in vita. Come già detto in precedenza questa tipologia fu ampiamente criticata in quanto permetteva di eludere le pratiche successorie enunciate nel Corano.
+> “Ebussuud makes it clear that that was no longer possible. It was
+> impossible because harac land had for centuries ceased to be regarded
+> as the property of the state, and had become private property. Syria
+> and Iraq, the heartland of the former eastern caliphate, had become
+> predominantly Muslim and Arabic, and the form of land tenure that
+> prevailed in Arabia passed to harac territory, thereby ending what had
+> been a fundamental distinction between the two. Furhter the harac was
+> now paid by Muslims. The original conditions governing harac territory
+> no longer held, and these characteristics had to be placed under a new
+> nomenclature, - that of miri arazi”[^13].
 
-iii. *Waqf ahli* secondo *Abu Yusuf*. Il discepolo di *Abu Hanifa* elaborò la teoria secondo la quale potesse essere accettabile la creazione di una fondazione pia il cui primo beneficiario fosse il fondatore stesso. Risulta come negli altri casi nella non disponibilità della *raqabah* [^11] ma si ha comunque diritto al godimento della rendita. Nonostante non fosse accettata nè dagli esponenti della scuola hanafita nè dalle altre scuole questa pratica si diffuse in tutto il mondo islamico.
+Tutti i territori Arabi una volta incorporati nell’Impero Ottomano
+vennero così decretati province speciali, o *müstesna eyaletler*, e
+seguirono prassi amministrative autonome rispetto al governo centrale.
+Le regioni di Rumelia e Anatolia invece, sotto il dominio ottomano
+vennero inglobate nel patrimonio del *bayt al-mal*, controllato dal
+sultano, con la nomenclatura di *miri arazi*. La necessità di dividere i
+territori conquistati in due sotto tipologie viene così realizzata:
+quelli abitati da infedeli o comunque mai sottomessi dagli imperi arabi
+vennero annessi come *arazi-i harciye* con la nuova accezione di *miri
+arazi*, a quelli invece facenti parte del primo nucleo dell’espansione
+araba, in seguito alla conquista ottomana, venne riconosciuto uno
+statuto particolare.
 
-### Il trasferimento di proprietà
+Un’altra spinosa questione che fu affrontata da *Ebüsuud Efendi* fu la
+sopra citata pratica di effettuare compravendite in regioni che
+successivamente vennero poi decretate come demanio statale. Ma ancora
+più complesso fu la gestione di tutte le proprietà che nel frattempo
+erano state vincolate ad una fondazione, la perdita di queste rendite
+era un danno estremamente ingente per il tesoro e divenne imperativo
+rientrare in possesso almeno in parte dei terreni. La soluzione non fu
+quella della confisca, peraltro già tentata senza successo da Mehmet II,
+ma l'applicazione di una seconda tassazione: qualora i guadagni ricavati
+dai beni vincolati fossero in misura maggiore al fabbisogno necessario
+per il funzionamento base del *waqf*, questi proventi in eccesso
+sarebbero stati versati al tesoro, altrimenti potevano rimanere nelle
+casse della fondazione. Questa idea, nonostante la palese difformità
+rispetto a qualsiasi dottrina sul *waqf*, venne applicata con successo
+in Ungheria; in Anatolia e Rumelia invece venne imposto alle *evkaf* di
+pagare le stesse imposte dei *arazi-i haraciye* sui terreni produttivi
+ad esse vincolati. Questo sistema di doppia imposizione sui conduttori
+venne denominato *iki başlı*, ovvero “a due teste”. I conduttori dei
+fondi si ritrovarono così a dover versare, oltre all’affitto per l’uso
+dei terreni, anche una decima ispirata alla *öşür* (quindi basata sul
+raccolto) ed una “patrimoniale” calcolata sull’estensione del campo
+(*çift resmi*) rapportata alla superfice arabile da una coppia di buoi
+nell’arco di una giornata[^14].
 
-L'unico punto su cui tutte le scuole giuridiche concordano è che, al momento della sua istituzione, un *waqf* scinde una proprietà in due entità astratte, definibili come nuda proprietà (*rakaba* o *raqabe*) e usufrutto (o diritto di godimento, *tasarruf*). Sia la scuola *hanafita* che quella *malikita* ritengono che il fondatore mantenga il possesso dei beni donati, rinunciando unicamente alle rendite generate da questi. Secondo *Abu Hanifa* il *waqif* ha facoltà di revocare in ogni momento il lascito[^12],  *Malik* si spinge oltre e teorizza che la creazione di un *waqf* possa anche avere un carattere temporaneo fin dall'inizio, accettande quindi l'istituzione di fondazioni anche senza la caratteristica di perpetuità. L'atto di creazione di una fondazione non viene visto quindi come un vero e proprio passaggio di proprietà, ma piuttosto come un affidamento fiduciario di un bene le cui rendite vengono destinate ad uno scopo caritatevole.
+Essendo diventati *miri arazi* i terreni non potevano più essere dati in
+concessione direttamente dal *waqif*, in quanto non più titolare di
+*mulk*, neanche con parere positivo del *qāḍi* locale. In questo modo
+l’unica possibilità per poter regolarmente istituire una fondazione era
+ottenere la proprietà tramite assegnazione imperiale[^15]. Fu così che
+il processo di burocratizzazione delle concessione governative sulle
+*evkaf* venne istituzionalizzato, il controllo sui diritti di proprietà
+delle fondazioni fu molto esteso, costantemente soggette alla
+possibilità di estinzione, in quanto la *rakabe* rimaneva nelle mani del
+tesoro.
 
-Già i discepoli di *Abu Hanifa* contestarono questa concezione, sostenendo la tesi che il conferimento dei beni dovesse essere completo per poter essere considerato un *waqf*. Allineandosi alle interpetazioni *hanbalite* e *safi'ite*, anche *Abu Yusuf* e *Saybani* ritengono che la proprietà del *waqif* si estingua definitivamente, e venga trasmessa a Dio, solo le rendite e il godimento rimangono a disposizione del mondo terreno ma esclusivamente allo scopo di perseguire il bene dell'umanità. Da qui consegue che la fondazione non può che avere una caratteristica di eternità, essendo la *raqabe* definitivamente estinta nelle mani della divinità ed astratta dal mondo materiale. Gli unici diritti esigibili sui beni vincolati sono quelli legati al godimento delle rendito e al diritto di usufrutto da parte dei beneficiari. La dottrina giuridica elaborò numerose casistiche per affrontare eventi particolari, come la distruzione di un edificio, la perdita di valore di un bene o la cessazione di pubblica utilità, per permettere il trasferimento di *mawquf*[^13].
+Un caso esemplificativo è quello riportato da Halil Inalcik sulla
+riappropriazione da parte del *bayt al-mal* delle terre concesse in uso
+ai *awqaf* legati ai dervisci. Questi erano stati fondato garantendo in
+cambio di fornire ospitalità a pellegrini e viandanti nei loro
+ostelli[^16]:
 
-Sulla questione riguardante la tipologia di proprietà trasferita con la creazione di un *waqf*, M.Z. Abbasi riconosce due correnti di pensiero, entrambe derivate da un approccio basato sul *qayis*, e le riassume in questo modo:
+> “since by the sixteenth century many of them had lost their true
+> functions wile still enjoying tax exemptions, and so long as they
+> remained as vakıfs the state could not use their lands for financial
+> and military purposes. The state, therefore, abolished those zaviyes
+> which were not situated on roads and performed no service for
+> travelers, and those which did not expend their income on the
+> charities for which they had been founded. The state would abolish the
+> vakıfs and acquire the land.”[^17]
 
->"La prima, e spesso citata, opinione è che la proprietà venga trasferita a Dio Onnipotente per il beneficio dell'umanità, come nel caso di una moschea. Ogni diritto del fondatore cessa sulla proprietà divenuta *waqf*, come quando uno schiavo liberato non è più di proprietà del suo padrone. La seconda opinione ritiene che non vi sia nessun passagio di proprietà, questa viene invece "confiscata" "bloccata" e il proprietario non perde la titolarità; piuttosto il suo diritto all'alienazione del bene viene limitato per legge. In supporto a questa tesi viene fatto riferimento analogico con la *Umm al-Walad*, la donna schiava che, partorendo il figlio del suo padrone non può più essere venduta e viene liberata alla morte di questi. La proprietà vincolata viene quindi paragonata alla *Umm al-Walad*, rimane proprietà del fondatore ma non può essere ceduta, ereditata o venduta. Questa opinione è anche supportata dalla tradizione del Profeta quando rispose ad 'Umar che gli chiese consiglio su come utilizzare al meglio le sue proprietà. Il Profeta gli consigliò '*habis al-asl wa sabil al-thamara*' (Vincola la parte materiale, dona l'usufrutto)"[^69]
+L’accentramento del controllo sui terreni agricoli fu realizzato in
+massima parte per contrastare le forze centrifughe che rischiavano di
+disgregare le province imperiali. Il fenomeno si sviluppò
+particolarmente nel periodo di espansione quando la redistribuzione di
+terre venne ampiamente utilizzata come compenso per le tribù che
+partecipavano alle campagne, ponendo le basi alla nascita di potentati
+locali in particolare nelle province più esterne. Fino alla fine del
+XVI° secolo il fenomeno delle terre vincolate ad un *waqf* fu
+relativamente poco esteso, e la suddetta regolamentazione fu efficace
+nel limitare la perdita di introiti. Nel periodo immediatamente
+successivo però l’eccessivo potere sviluppato dai funzionari in virtù
+dell’attribuzione di fondi agricoli tramite *temlik* fu concausa sia
+dell’aumento vertiginoso di *mevkuf arazi*[^18] che dell’espansione
+capillare di fenomeni di corruzione legati alla fondazione e gestione
+delle *evkaf* ad essi legate.
 
+####3.2.2 Stagnazione ed esplosione del fenomeno *vakf*
 
-### La *waqfiyya*
+La fine della fase espansionistica ottomana segnò anche l’inizio di un
+periodo di declino nel potere effettivo del sultano; numerosi fenomeni
+erosero la capacità di agire del governo centrale, la classe di
+burocrati e funzionari imperiali crebbe a dismisura aumentando di pari
+passo la sua influenza sui meccanismi di governo dell’Impero. Fu in
+questo periodo che il fenomeno del *vakf* si sviluppò sia in estensione
+che nella peculiare forma del mondo ottomano, decisamente differente da
+quelli che erano i precetti teorizzati dai giuristi hanafiti a partire
+dal III° secolo H. La superfice totale coperta da terreni più o meno
+legalmente vincolati ad una fondazione è stata calcolata che fosse tra i
+due terzi ed i tre quarti della totale estensione dell’Impero[^19], ma
+il cambiamento più rilevante non fu tanto dal punto di vista
+quantitativo quanto da quello qualitativo. Fece infatti la sua comparsa
+quello che fino ad ora era stato un istituto scarsamente utilizzato in
+ambito ottomano, anche se formalmente previsto dalla giurisprudenza
+islamica: nel periodo compreso tra il XVII° ed il XVIII° secolo d.C. si
+assiste ad una presenza sempre maggiore della *aile vakfı*[^20].
 
-Vero è che la relazione tra *waqif* e *waqf* non si esaurisce con la creazione di questa. Sotto vari aspetti anzi, il fondatore ha molto più potere decisionale e libertà di azione che un proprietario. Tramite la *waqfiyya* infatti, vengono rese dichiarazioni riguardanti la gestione dei beni vincolati e la ripartizione dei frutti, vi è inoltre indicato chi sarà deputato ad essere il fiduciario della fondazione e quali compensi riceverà per la sua opera. Spesso questa posizione veniva conferita ad un membro della famiglia del *waqif* o a suoi discendenti, garantendo così il pieno controllo perpetuo sulle proprietà; anche quando non vi era indicato esplicitamente un *mutawalli*, ed era quindi nominato dal *qadi*, questi era sovente scelto tra i famigliari del fondatore.
+La sua particolarità fu quella di essere utilizzata allo scopo non solo
+di eludere le norme successorie coraniche, ma di fornire una rendita
+perpetua ai propri discendenti e di mantenere il controllo effettivo su
+tutta la proprietà. Divenne pratica comune infatti nominare sè stessi e
+i propri famigliari non solo come beneficiari delle rendite, ma anche
+come dipendenti della fondazione così da avere incarichi gestionali di
+varia natura dietro compenso pagato dalla *vakf* stessa:
 
-Il rispetto dei precetti inclusi nell'atto istitutivo poi venne rivestito di una autorità religiosa in virtù dello scopo pio come fine ultimo della *waqf*; vi è anche un *hadit* del Profeta, spesso citato per legittimare la necessità di seguire pedissequamente le indicazioni enunciate dal fondatore all'atto di istituzione: "Le clausole stipulate dai Musulmani devono essere rispettate, a meno che non siano clausole che permettano ciò che è illecito o probiscano ciò che è lecito"[^70]. L'origine di questo *hadit* può essere rintracciata nel seguente versetto coranico:
+> “The founder, known as the vakıf, appointed himself to the position of
+> şeyh if he created a dervish convent; müderris or professor if he
+> established a medrese, or theological college; and mütevelli, or
+> administrator of the foundation, whether it be a mosque, soupkitchen,
+> inn, hospital, o any other institution that was created.”[^21]
 
->"Se qualcuno, ascoltato il testamento, lo altererà, la colpa ricadrà sui contraffattori, perchè Dio ascolta e sa. Ma chi teme che il testatore abbia commesso un'ingiustizia o un'iniquità e mette concordia fra gli eredi, non commette peccato, perchè Dio è perdonatore e misericordioso."[^71]
+Ulteriore espediente di cui non abbiamo testimonianza nella prassi
+pre-ottomana è quello di nominare come supervisore del fiduciario una
+persona di fiducia scelta dal fondatore. Tradizionalmente le attività
+svolte dal *waqf* erano supervisionate dal *qāḍi*, in questo periodo
+tuttavia veniva sfruttata la possibilità, non prevista dal *fiqh*, di
+demandare questa funzione ad un *nazir* nominato dal *waqif*. La pratica
+divenne di uso comune tanto che viene stimato che circa il 36 percento
+delle fondazioni istitutite nel XVIII° secolo ne fecero uso. Si verifica
+quindi una importantissima conseguenza: era solitamente negli interessi
+delle classi più agiate l’atto di fondare un *waqf*, questi, con la
+nomina del supervisore, affidavano l’incarico a funzionari statali di
+alto rango; di fatto si venne così a concentrare nelle mani di dignitari
+e burocrati il controllo della maggior parte delle terre demaniali.
 
-Anche se il riferimento è alle norme testamentarie, viene spesso utilizzato come analogia per difendere l'obbligo di rispettare le condizioni enunciate nella *waqfiyya*. Da questo obbligo di seguire pedissequamente i precetti contenuti negli atti istitutivi, ne consegue che questi dovessero essere enunciati in un linguaggio chiaro che desse poco spazio a libere interpretazioni successive e prevedendo il maggior numero di casistiche che si sarebbero potute presentare in futuro; il rischio infatti poteva essere di vedere inficiata la costituzione stessa del *waqf* se gli intenti fossero giudicati troppo poco discernibili da un giudice; un'altra possibilità era quella di vedere commissariata (o addirittura estinta) una fondazione i cui beneficiari o amministratori non fossero chiaramente indicati al momento della istituzione[^14].
+<span id="_Toc445719169" class="anchor"><span
+id="classificazione-del-vakf-ottomano" class="anchor"><span
+id="toc445719169" class="anchor"><span
+id="classificazione-del-vakf-ottomano-1"
+class="anchor"></span></span></span></span>
 
-In teoria la *waqfiyya* dovrebbe essere redatta o declamata al cospetto di due testimoni, nella pratica venne prevista la possibilità di registrare
-gli atti al cospetto di un *qadi* che fungeva sia da testimone che da giudice sulla validità delle condizioni poste alla fondazione. La dichiarazione poteva essere decretata come esaustiva ed esplicita (*sarih*) o ambigua e indiretta (*kinaya*), in quest'ultimo caso si riteneva necessaria una ulteriore chiarificazione da parte del fondatore, se possibile, altrimenti venivano utilizzati elementi circostanziali per cercare di inferire e dedurre gli effettivi intenti del *waqif*. Una volta analizzata la dichiarazione resa, il giudice valutava i precetti e le caratteristiche del *waqf* ed esprimeva un giudizio sostanziale sulla validità della stessa, questa volta da un punto di vista normativo del *fiqh*. Le indicazioni rese dal fondatore venivani quindi categorizzate in tre tipologie: *sahih*, valide, quindi da seguire pedissequamente; *batil*, non valide e invalidanti, in questo caso il *waqif* aveva incluso condizioni che comportano la nullità dell'atto costitutivo come ad esempio la possibilità di vendere i beni vincolati a suo beneficio o a quello del *mutawalli*, la condizionalità della fondazione ad un evento particolare, o la sovvenzione di atti considerati illegali. Un caso particolare è quello dell'istituzione di un *waqf* temporaneo, tutte le scuole giuridiche considerano questo tipo di atto nullo ad eccezione di quella *Malikita* che lo ammette senza nessuna particolare riserva. In questi casi il giudice sentenzia come non valida la costituzione stessa della fondazione in quanto non conforme alla legge. L'ultima categoria è quella delle condizioni non valide ma annullabili, *fasid*, ovvero condizione reputate contro la legge ma non così gravi da inficiare l'atto nella sua totalità, questi precetti vengono quindi annullati e non ammessi nella *waqfiyya*.
+####3.2.3 Classificazione del *vakf* Ottomano
 
-### Il concetto di perpetuità e la estizione di un *waqf*
+Durante il regno di Mahmud II, prima della promulgazione del *Arazi
+Kanunu*[^22] del 1857, venne istituito il *Evkaf-ı Hümayun Nezareti* o
+Ministero delle Fondazioni Imperiali, al fine di porre nuovamente sotto
+il controllo del sultano i *waqf* istituiti nel corso del tempo e di
+ridurre l’evasione fiscale che affliggeva le casse statali. Questo
+ministero in funzione della preparazione del nuovo Codice Fondiario
+stilò una classificazione delle varie tipologie di fondazione presente
+nell’Impero. La divisione principale era tra *vakıf-ı sahih* e *vakıf-ı
+gayr-ı sahih*[^23]:
 
-Anche su questo punto non vi è uniformità di intepretazione da parte delle scuole giuridiche, in generale comunque tutte accettano che un *waqf*, per quanto creato allo scopo di fornire un servizio perpetuo, possa in realtà estinguersi. Questa possibilità è soggetta a varie eventualità non dipendenti dalla fondazione stessa ma piuttosto dalle condizioni e dagli scopi esplicitati dal suo fondatore. Solo in rari casi è ammessa l'estinzione intenzionale da parte del *waqif*[^22]. La dissoluzione di una fondazione è invece automatica se il fondatore commette reato di apostasia, in quanto non solo punibile con la pena di morte ma escluso dalla comunità dei musulmani e non più in grado di esercitare i suoi diritti di persona fisica.
+Le prime erano le fondazioni istituite nei territori *öşür* e in quelli
+propriamente *harac*, come dalla classificazione operata da *Ebüsuud
+Efendi*, corrispendenti alle regioni arabe centrali ed orientali; si
+tratta di terreni di proprietà piena i cui possessori sono in grado di
+disporne come vogliono e quindi anche i *mawquf* da questi compiuti sono
+validi; di conseguenza anche le fondazioni presenti in questi territori
+sono conformi alla legge[^24]. Negli altri territori imperiali
+classificati come *miri arazi*, anche nel caso i proprietari siano in
+possesso del *mulk* elargito dal sultano, non vi possono essere *vakf*
+autentiche in quanto la *rakabe* non viene mai alienata dal *bayt
+al-mal*; mancando con ciò uno dei requisiti principe del *waqf* nel
+*fiqh* non soltanto ḥanafita ma secondo tutte le scuole sunnite.
 
-Nel caso che la proprietà vincolata venga completamente distrutta o resa inutilizzabile da eventi calamitosi o sconvolgimenti sociopolitici, la fondazione non è più in grado di autosostentarsi venendo a mancare le rendite preposte. In questo caso l'opinione più diffusa segue l'interpretazione di *Saybani* che sostiene la riconsegna dei beni agli eredi del fondatore e la cessazione della fondazione. Secondo altre opinioni giuridiche questo caso sarebbe da assimilare per analogia a quello in cui un *waqf* perda la sua effettiva utilità o il suo scopo si estingua: se ad esempio è stabilita una fondazione allo scopo di finanziare i servizi di una moschea, ma col tempo il villaggio in cui si trova viene abbandonato, si dice che lo scopo del *waqf* sia esaurito. La stessa situazione si presenta se i beneficiari vengono indicati come una categoria ben specifica dei discendenti del fondatore e questi si estinguano. Per questi casi si ritiene che sia conveniente e conforme rispettare i desideri del fondatore nella modalità più simile a come da lui enunciato, viene quindi marginalmente modificato lo scopo o i beneficiari della fondazione; potrebbero questi divenire i poveri in generale, o i discendenti più poveri del *waqif*, nel caso di uno scopo esaurito per motivi urbanistici o demografici (come nel caso del villaggio abbandonato) si provvede solitamente a rispettare lo scopo ma viene cambiata la struttura destinataria delle rendite, conferendole ad esempio, ad una moschea o ad un ospedale operanti in un vllaggio nelle vicinanze e ancora abitato.
+Elemento essenziale e peculiare delle fondazioni ottomane è quindi la
+loro natura non a norma con la giurisprudenza islamica, tutte
+potenzialmente estinguibili, in quanto i loro profitti non derivano dal
+vincolo perpetuo realizzato sull’essenza[^25] di una proprietà. Questa
+tipologia di *waqf* non conformi viene ulteriormente suddivisa in tre
+sottocategorie a seconda del diritto alienato dal tesoro a favore della
+fondazione. Questo può fare riferimento solo al diritto di riscuotere le
+tasse dovute sulle proprietà, ma non sull’utilizzo, in questo caso il
+funzionario imperiale locale può assegnare il diritto alla coltivazione
+tramite *tapu* a soggetti terzi che pagheranno il corrispondente affitto
+direttamente al tesoro. Un’altra possibilità è quando la fondazione può
+disporre liberamente del terreno, ossia di coltivarlo o di darlo in
+conduzione ad altri soggetti, in quanto titolare del *tasarruf* ma le
+imposte sia fondiarie che sui redditi sono da versare allo stato.
+L’ultima casistica invece si realizza nel caso sia le *aşar* che il
+diritto d’uso vengono conferite al *vakf*, e soltanto la *rakabe* rimane
+al *bayt -al-mal*.
 
-## Gli elementi essenziali
+La realizzazione di questo regime terriero nei domini ottomani fu il
+compimento di un processo che necessitava di limitare al massimo il
+mancato reddito sotto forma di tassazione dovuto ad alla scarsa
+centralizzazione del potere imperiale nei secoli precedenti. La pratica
+di assegnare la gestione della riscossione delle imposte e la mancata
+applicazione puntuale del regime di bottino di guerra sulle province
+conquistate permise a dinastie di funzionari e nobili locali di
+arricchirsi a discapito del tesoro centrale. Ormai impossibilitato ad
+eliminare la pratica di vincolare i fondi agricoli a fondazioni
+famigliari, il sultano impose la categoria di terreno demaniale sulla
+maggior parte dell’Impero riportando così sotto il suo controllo la
+cosiddetta nuda proprietà. Questo espediente pur mantenendo in essere
+una prassi non conforme alla dottrina giuridica, ebbe successo nel
+aumentare le rendite del *bayt al-mal*, grazie all’applicazione del
+regime fiscale a tutti i terreni sottoposti a *mawquf*. Vediamo infatti
+che anche i pareri emessi riguardanti l’esazione delle imposte sui
+terreni vincolati, ammettono chiaramente la possibilità di dedicare al
+sostentamento di una fondazione le tasse dovute dal conduttore, ma solo
+in virtù della posizione precaria dal punto di vista legale del *waqf*.
+Viene inoltre sottolineata l’impossibilità di alienare dal tesoro tutte
+le imposte riscosse direttamente e non concesse a terzi tramite
+*temlik*, come riportato nella *fatwa* citata dal Barnes:
 
+> “While it has been recorded in a rcent financial register that, of the
+> yearly revenue belonging to the villae mentioned in the aforesaid
+> decision, one half of the revenue was to pertain to the timar and the
+> other half was to go to the vakıf; and while the aforesaid revenues
+> had been given into the possession of the timar for more than twenty
+> years, nonetheless, according to the revision of the register which
+> set at liberty this revenue, is it permissible for ’Amr, the mütevelli
+> of the vakıf, to take this half of the revenue which is customary
+> tithe (rüsum-ı örfiye) after he has obtained the share which is the
+> canonically legal tithe? - The reply: Making customary tithes vakıf is
+> impossible.”[^26]
 
-**Al-waqif**, il fondatore
+####3.2.4 Il *vakf* in area urbana
 
-Si tratta di colui che dichiara la sua intenzione (*niyya*) di dedicare permanentemente alcune delle sue proprietà ad uno scopo espresso nell'atto istitutivo della fondazione (*waqfiyye*). Deve essere una persona fisica in grado di agire secondo i dettami del fiqh, ovvero di età adulta, in grado di intendere e di volere[^15], capace di amministrare i propri beni (*rasid*), non essere sotto accusa di insolvenza o bancarotta e di non essere uno schiavo. Nel caso il fondatore sia in punto di morte la fondazione viene considerata come parte di una richiesta testamentaria, seguendo quindi i dettami del diritto successorio. Non è invece richiesta come condizione quella di essere Musulmano, vengono reputate valide anche *waqf* fondate da un *dhimmi* purchè gli scopi siano considerati pii dalla sua religione.
+Il ruolo svolto dalle fondazioni nello sviluppo urbanistico ottomano fu
+di primaria importanza, moltissimi villaggi vennero fondati allo scopo
+di coltivare terre inutilizzate in tutte le province dell’Impero;
+moschee e *bedestan*[^27] vennero eretti nelle piazze, intorno alle
+quali sorsero centri abitati, la città di Edirne si sviluppò intorno al
+villaggio di Uzunköprü[^28] sorto a sua volta in prossimità di un ponte
+costruito con i fondi di un *waqf*, l’agglomerato urbano di Nevşehir
+deve la sua prosperità alle strutture della fondazione istituita da
+Damad Ibrahim Paşa nel suo villaggio natale di Muskara; nelle terre di
+confine urbanizzate grazie agli investimenti degli *evkaf* possiamo
+citare Sarajevo, cresciuto intorno ad un complesso di edifici di
+servizio finanziati e costruiti da İsa Bey[^29].
 
-**Qurba**, lo scopo pio
+Le rendite generate dall’affitto di negozi, dai servizi offerti da
+caravanserragli dagli alberghi e dalle innumerevoli strutture vincolate
+ad un *waqf* vennero utilizzate non solo per arricchire le famiglie del
+fondatore ma per fornire servizi indispensabili alle comunità che
+vivevano nei centri urbani. Nei villaggi di piccole e medie dimensioni
+sorsero centri che venivano chiamati *imaret*, ovvero piccoli complessi
+di edifici deputati alla fornitura di servizi di protezione sociale,
+come la fornitura di pasti o la recitazione delle preghiere, e di
+scolarizzazione primaria. Nelle grandi città questi centri raggiungevano
+dimensioni ragguardevoli, come l’impressionante complesso sviluppatosi
+intorno alla Süleymaniye camii, e potevano comprendere biblioteche,
+mense per i poveri, scuole, ostelli, bagni pubblici oltre alla moschea e
+tutti i servizi ad essa collegati. Gli *awqaf* preposti alla costruzione
+e alla gestione di questi complessi, chiamati *külliye*, erano
+solitamente fondati da sultani o dignitari di altissimo rango, in quanto
+per garantire il mantenimento della fondazione era necessario vincolare
+beni di grande valore. Ad esempio per sovvenzionare il Süleymaniye
+külliyesi era necessario il reddito di “217 villages, 30 hamlets, 2
+mahalles, 7 mills, 2 fisheries, 2 docks, one grazing pasture, 2 çiftliks
+and 2 islands”[^30].
 
-Lo scopo ultimo prefisso alla fondazione ed anche quello che legittima la *pietas* della stessa; comprende sia gli obblighi religiosi da rispettare che le opere di bene da realizzare nella pratica, siano esse di carità o di pubblica utilità.
+I servizi forniti da queste fondazioni si riflettevano su tutto il
+tessuto sociale, la maggior parte di quello che si potrebbe definire il
+sistema di *welfare* dell’Impero Ottomano veniva finanziato in questo
+modo, comprendendo ad esempio anche i più alti livelli di istruzione
+dove si formavano gli *imam* che avrebbero operato nelle moschee
+principali o i burocrati che avrebbero lavorato nel palazzo imperiale.
+Nonostante lo scopo principale di un *waqf* fosse l’assistenza ai poveri
+ed ai malati, il successo raggiunto dal sistema basato sulle fondazioni
+fu tale che:
 
-**Mawquf 'alayh**, i beneficiari
+> “For many of the inhabitants of the city, it was a cradle-to-the-grave
+> institution, for a man could be born in a vakıf house, sleep in a
+> vakıf cradle, eat and drink from vakıf provisions, read in vakıf
+> libraries, teach in a vakıf school take his wage from the vakıf
+> administration and, when he died, put in a vakıf coffin and be buried
+> in a vakıf graveyard \[…\] They went shopping in vakıf shops, they
+> prayed in vakıf mosques;”[^31]
 
-I soggetti di diritto sono coloro che godranno delle rendite generate dai beni vincolati. Possono essere sia persone specifiche (ad esempio il figlio del fondatore e i suoi discendenti[^16]) che categorie di persone (i poveri, i pellegrini ecc.)[^17]. Se, come beneficiari, vengono indicate delle opere di pubblica utilità queste vengono considerate a favore delle comunità che ne traggano beneficio, come ad esempio gli abitanti del villaggio dove viene costruita una moschea o un ospedale. In base alla tipologia di beneficiari si realizza il distinguo principale tra *waqf khayri* e *waqf ahli*. Esistono *waqf* che prevedono come beneficiari più categorie di persone, ad esempio metà delle rendite vengono divise tra i famigliari più stretti e la restante metà viene donata ai poveri del quartiere.
+#####*Icareteyn*
 
-Un'altra possibilità è ordinare i destinatari per classi successive, questo avviene in particolare, quando il fondatore dichiara che le rendite siano distribuite ai suoi discendenti su base generazionale; fino a che tutti i membri di una generazione aventi diritto sono in vita quelli della successiva non possono subentrare nella ripartizione. Spesso in questo tipo di dichiarazione viene inclusa come ultima categoria di aventi diritto i poveri della comunità; secondo la dottrina giuridica di *Abu Yusuf* (ma anche *Malik* e *Safi'i*) questo avviene anche se la clausola non è esplicitata, in quanto la natura stessa della fondazione prevede che in caso di assenza di beneficiari le rendite vengano destinate agli indigenti.
+I *waqf* cittadini non traevano il loro sostentamento unicamente dalle
+terre coltivate delle province di Anatolia e Rumelia, numerosissimi
+erano gli edifici e le attività vincolate nei centri urbani; i negozi
+dei mercati coperti, i moli, piccoli laboratori artigianali, alberghi,
+qualsiasi tipo di attività poteva essere deputata a creare reddito per
+una fondazione, questi beni venivano definiti *müsakkaf*. Spesso
+costruiti appositamente allo scopo di sostenere economicamente un
+*vakf*, avevano anche l’effetto collaterale di creare posti di lavoro,
+ad esempio il complesso di Ayasofia era mantenuto grazie ai proventi
+derivati da più di 2000 negozi, 1300 case, caravanserragli e magazzini
+di vario tipo, tutte attività che necessitavano di manodopera
+stipendiata per funzionare. Non solo quindi i servizi sociali ma anche
+l’economia dei più grandi centri urbani dipendeva in buona parte dalle
+attività legate alle fondazioni.
 
-Clausola fondamentale per la validità del *waqf* era la possibilità da parte dei beneficiari di avere proprietà o beni personali, erano quindi esclusi gli schiavi e gli infedeli (*kuffar*) ma anche i discendenti non ancora nati: una fondazione il cui primo beneficiario designato non è ancora in essere veniva considerata nulla[^18].
+Data la maggiore vitalità delle città rispetto al mondo contadino, si
+rese necessario un maggior ricorso all’istituto dell’*istibdal*, lo
+scambio di beni. La sua utilità si rivelava indispensabile soprattutto
+nei casi in cui un evento calamitoso rendeva inutilizzabile un edificio.
+La conformazione urbanistica e la tecnica costruttiva basata sul legno
+delle città ottomane faceva sì che incendi anche accidentali si
+potessero espandere fino ad avere effetti devastanti. Quando lo scambio
+(o la vendita) di beni vincolati non fosse possibile, vuoi perché i
+*mutawalli* non avevano possibilità di reperire proprietà compatibili o
+perché non vi era nessuno disponibile ad accettare una transazione
+reputata poco conveniente, si prospettava il rischio di vedere estinta
+una fondazione per mancanza di introiti. Onde evitare questa possibilità
+fu preso in prestito lo stesso sistema utilizzato per l’affitto a scopo
+agricolo dei terreni demaniali.
 
-**Mutawalli**, amministratore, fiduciario
+Denominato *icareteyn*, o doppio affitto, consisteva in un pagamento
+iniziale corrisposto al tesoro allo scopo di comprare il *tapu*, ovvero
+un documento attestante il diritto alla conduzione del fondo,
+successivamente si provvedeva ad effettuare un versamento annuale di
+modica entità a titolo di affitto. La differenza principale rispetto al
+sistema di locazione utilizzato in precedenza per le proprietà in
+contesto urbano era che questo prevedeva una durata massima di tre anni
+e non vi era il pagamento iniziale. A queste condizioni era spesso
+proibitivo per il *vakf* far fronte all’investimento necessario per
+ripristinare l’edificio, d’altro canto però diventava sconveniente per
+l’eventuale locatario pagare un affitto su di una proprietà parzialmente
+distrutta in attesa del restauro integrale che si sarebbe potuto
+protrarre per ben più a lungo della durata massima del contratto.
 
-L'amministratore o fiduciario è colui che si occupa della supervisione e dell'amministrazione della fondazione nel rispetto dei precetti enunciati nella *waqfiyya*. Ha il compito di rendere o mantenere remunerative le proprietà, di presiedere alla fornitura dei servizi previsti dal fondatore e di redistrbuire gli utili tra gli aventi diritto. Una delle mansioni più importanti, visto il carattere di eternità del *waqf*, riguarda il restauro conservativo degli edifici; le spese effettuate per questo scopo sono detratte dalle rendite prima che esse siano redistribuite onde evitare la negligenza nelle opere di manutenzione[^19]. Agisce sotto la supervisione di un *qadi* ed il suo operato è sottoposto ad un compenso corrisposto dalla *waqf*; in caso il *mutawalli* si dimostri non degno di fiducia o di palese incompetenza può essere rimosso o affiancato da un funzionario nominato da un giudice. Il fiduciario, in qualità di amministratore, deve essere una persona nel pieno delle capacità giuridiche ed essere considerato persona di elevata caratura morale e in grado di disporre del proprio patrimonio. Oltre a questi requisiti essenziali il fondatore poteva esplicitarne ulteriori in modo da riservare la carica a persone a lui vicine, come parenti e discendenti, preservando il controllo effettivo sui beni vincolati oltre che sulle rendite.
+Il nuovo tipo di locazione veniva incontro alle necessità del *vakf*:
+grazie al pagamento anticipato di un importo che in teoria corrispondeva
+al valore dell’immobile, era possibile a riparare la struttura
+rendendola fruibile il prima possibile; al locatario invece conveniva
+per la possibilità di avere un contratto di durata indefinita. L’affitto
+infatti dava titolo di possessore a tempo indeterminato, in origine si
+stabiliva come termine la morte dell’intestatario, ma in breve fu
+prevista la possibilità di lasciare in eredità il diritto d’uso. Fu così
+replicato in città quanto successo con le terre demaniali, anche se di
+effetto leggermente più limitato visto che il trasferimento di proprietà
+non era effettivo consistendo solo in una specie di usufrutto, e il
+lascito ereditario doveva comunque essere validato da un giudice e dalla
+fondazione. In questo senso il corrispettivo mensile pagato era in
+funzione di mantenere un rapporto debitorio costante tra il detentore
+(*mutasarrıf*) e il *waqf*, così da scongiurare eventuali pretese di
+usucapione e da garantire una seppur minima rendita fissa a
+quest’ultima. Il contratto era inoltre invalidabile in caso di
+inadempienza da parte del locatario, non era però possibile aumentare
+l’importo del pagamento periodico stipulato.
 
-Nel caso, piuttosto raro, in cui il *waqif* non abbia designato un *mutawalli* o in cui non sia possibile nominare nessuno avente le caratteristiche richieste nella *wakfiyya*, è di norma il *qadi* che si occupa direttamente della gestione o di incaricare una persona di fiducia a ricoprire il ruolo. Secondo la scuola *hanbalita* e quella *malikita* è anche prevista la possibilità che i beneficiari, qualora siano in numero limitato e identificabili, possano formare una specie di consiglio di amministrazione.
+Secondo il Barnes sarebbe stato possibile passato un determinato lasso
+di tempo ricorrere al diritto di riscatto, grazie al quale il
+*mutasarrıf* avrebbe potuto rilevare la piena proprietà dell’immobile
+dietro al pagamento di un compenso denominato *taviz bedeli*[^32]. Era
+peraltro previsto il diritto di superficie da parte del detentore, così
+da garantire che qualsiasi cosa questi edificasse sul terreno fosse di
+sua esclusiva proprietà[^33].
 
+Il ricorso a questo tipo di negozio ebbe un notevole impatto sulle
+risorse delle fondazioni, visto che di fatto si trattava di un passaggio
+di proprietà, che le privava di molte delle fonti di reddito; si
+trattava inoltre di una pratica fortemente in contrasto con la teoria
+formulata dalla giurisprudenza islamica, per la quale i beni vincolati
+dovevano esserlo in eterno. Una volta ammesso che questi stessi beni
+invece potessero essere dati in utilizzo perpetuo a soggetti terzi in
+cambio dei due pagamenti previsti, fu possibile trovare vari
+*escamotage* per reintrodurli anche nella sfera privata di scambio e
+vendita. Fu un passo breve quello che portò a pratiche di collusione da
+parte di *qāḍi* e *mutawalli* al fine di depredare le risorse delle
+fondazioni amministrate da questi ultimi, bastava infatti dichiarare
+come inutilizzabile o pericolante un edificio in realtà in buone
+condizioni per rendere ammissibile il contratto *icareteyn*, una volta
+in sede di stipula dell’accordo inoltre si poteva stabilire una
+*müecelle*[^34] di importi estremamente ridotti. Nonostante fosse
+potenzialmente svantaggiosa per il *waqf* questa tipologia di locazione
+ebbe una notevole diffusione tanto da divenire la più utilizzata durante
+il XVIII° secolo.
 
-**Mawquf** i beni vincolati
+Come già avvenne nelle campagne, anche in città si riprodusse il
+fenomeno di appropriazione indebita da parte di funzionari e burocrati
+di proprietà teoricamente vincolate alle fondazioni. Il pericolo
+maggiore del contratto *icareteyn* era quello legata all’affido perpetuo
+che sovente si trasformava di fatto in una proprietà mascherata da
+affitto; se a questo aggiungiamo la possibilità da parte di notabili
+corrotti di alterare i registri del *waqf* o addirittura di distruggere
+documenti comprovanti la natura degli accordi presi, arriviamo a
+comprendere la portata potenzialmente distruttiva di queste innovazioni,
+che trasformarono ciò che in teoria era nato per provvedere al bene
+della comunità nei fatti in una fonte di reddito personale.
 
-Secondo l'*Encyclopaedia Islamica* vi sono dei requisiti generali affinchè dei beni possano essere vincolati:
+A titolo puramente esemplificativo si riassume ora un episodio riportato
+dal Barnes: Fatma binti İbrahim figlia del gran visir Damad İbrahim Paşa
+fondò un *waqf* prevedendo nella relativa *waqfiyya* la possibilità di
+stipulare sia affitti *icare vahide*[^35] che *icareteyn*, scopo della
+fondazione era di sostenere economicamente il *zaviye* di Şeyh Halil
+Halveti e di mantenere un predicatore. Successivamente il gran visir in
+carica Halil Hamid Paşa stipulò in suo favore un contratto *icareteyn*
+sulla proprietà vincolata ma riuscì tramite un espediente a non pagare
+il *muacelle*[^36], versando solamente un affitto mensile estremamente
+basso. Questo pagamento anticipato era indispensabile all’amministratore
+per sostenere le spese di restauro di numerosi edifici facenti parte
+della proprietà. Tuttavia, vista la carica della controparte, per
+riuscire ad esigere il pagamento dovette concedere non soltanto il
+diritto di usufrutto su tutti i beni immobili della fondazione, ma anche
+il diritto di concedere in affitto a terzi il terreno[^37].
 
->"(1) people have control over them (hence not a fish in the sea or a runaway slave); (2) their use is lawful (hence not musical instruments or objects used for worhip in other religions, such as crucifixes, nor impure goods like wine and pork); (3) they are not otherwise excluded from legal traffic (hence not public domains; *waqf* property or an *umm walad*)"[^72]
+Sulla condotta immorale degli amministratori invece si pronunciò anche
+il *şeyhülislam* Sunullah Efendi in occasione del seguente avvenimento:
 
-Nel discorso giuridico di *Abu Hanifa* i beni assoggettati ad un *waqf* devono essere inamovibili (quindi solo terreni ed edifici), in pieno possesso del fondatore (si escludono quindi beni di cui entrerà in possesso in futuro, come eredità, o crediti nei confronti di terzi), devono inoltre essere identificabili ed enunciabili inequivocabilmente [^10] in quanto è strettamente necessario includerli nella *waqfiyya*. Nella dottrina *hanbalita* e *safi'ita* è prevista la possibilità di dedicare ad una fondazione qualsiasi tipo di bene che non si esaurisca con l'usura, ovvero che sia potenzialmente in grado di rispettare il criterio di perpetuità. In origine erano quindi considerate invalide le fondazioni il cui *mawquf* fosse in beni deperibili o in denaro; durante il periodo Ottomano sempre più spesso vennero istituiti *waqf* con queste caratteristiche, tanto che la dottrina islamica dell'epoca (nella figura del *shaykh al-islam* che emise una *fatwa* a proposito) la considerò pratica accettata. D'altronde già nella scuola *hanafita*, secondo l'opinione di *Saybani*, era permessa una fondazione i cui proventi derivassero da beni mobili se la prassi tradizionale del luogo lo prevedeva[^73]. Il fatto che le rendite generate fossero di tipo speculativo, formalmente proibito dalla legge coranica sugli interessi finanziari, portò ad elaborare degli *hiyal* (espedienti giuridici) che giustificassero questa prassi:
+> “During the prayers for the birth of the Prophet in imperial mosques,
+> mütevellis attended only to the important people, offering them
+> sherbet and food in front of the poor and other attendees, whom they
+> ignored, behaviour which was totaly unacceptable. ‘This is an ugly
+> injustice’, the şeyhülislam noted, adding that if they were to feed
+> others than those required by the *vakıf* conditions \[…\] these
+> should be the poor and the lepers, and not the rich. ‘If the injustice
+> increase and if inappropriate expenses are entered into the *vakıf*
+> accounts, this is evil and illegal’”[^38]
 
->"Per soddisfare questo bisogno, osservando contemporaneamente la probizione religiosa, vennero elaborati un gran numero di espedienti. Uno di questi consisteva nell'acquisto da parte del creditore di qualche oggetto di proprietà del debitore per contanti e nel riacquisto immediato da parte del debitore dello stesso oggetto per somma maggiore, quindi comprensiva di interessi, pagabile a termine[^20]."
+#####*Gedik*
 
-Non era raro che allo scopo di provvedere al mantenimento di strutture imponenti come complessi comprendenti moschee, ospedali e ospizi fossero sottoposti a vincolo interi villaggi o mercati. Una eventualità che si poteva verificare era quella che queste proprietà perdessero valore nel tempo e non fossero più in grado di generare una rendita sufficiente al sostentamento del *waqf*, fosse questo per danneggiamento da calamità naturale o per mutamenti di tipo socioeconomico. Era prevista, in questi casi, la possibilità di scambiare le proprietà divenute inutili per denaro o per altri beni fruttiferi che garantissero il funzionamento della fondazione[^21]. Se invece l'utilità della fondazione stessa veniva a mancare, come ad esempio il mantenimento di una moschea in un villaggio abbandonato, l'opinione più diffusa era di dedicare le rendite del *waqf* al sostentamento di servizi di una stessa tipologia in contesti in cui questi fossero fruibili, mantenendo così lo scopo perpetuo della fondazione.
+Una delle difficoltà più grandi per le fondazioni in essere da lungo
+tempo fu quella di rispettare i precetti rispetto agli emolumenti in
+denaro da versare ai soggetti prestatori di servizi, o direttamente alle
+sue dipendenze. Il problema era legato alla stagnazione economica
+dell’Impero in seguito alla fine della fase espansionistica e alla crisi
+nel commercio in particolare nei confronti degli stati Europei; la
+situazione portò infatti a tassi di inflazione molto alti e il valore
+degli stipendi come esplicitati dal *waqif* non solo non era più al
+passo coi tempi, ma gli introiti della fondazione erano spesso
+insufficienti a mantenere gli impegni dettati dal fondatore. Essendo i
+più antichi e i più duraturi nel tempo gli *evkaf-ı hümayun*, ovvero
+quelli istituiti dai sultani e dai loro famigliari, erano i più
+suscettibili a queste contingenze impreviste.
 
+La soluzione trovata da Mahmud II fu quella di concedere i diritti di
+monopolio su di un mestiere o commercio in maniera temporanea dietro ad
+un pagamento, istituì quindi delle licenze all’esercizio di arti e
+mestieri. La caratteristica di questi mandati fu quella di essere
+redatti su appositi documenti che garantivano il permesso di svolgere la
+propria attività. Avendo lo stesso effetto di un atto di proprietà,
+anche se su di una entità potenzialmente astratta come la possibilità di
+vendere un prodotto e non il prodotto in sé, questi titoli, chiamati
+*gedik* potevano essere venduti o ereditati o utilizzati a garanzia di
+un prestito, ognuna di queste operazioni doveva essere vidimata da un
+funzionario ed era soggetta ad una imposta (*harc-ı intikal*). Questi
+nuovi introiti vennero utilizzati dal tesoro per pagare gli stipendi dei
+dipendenti delle fondazioni imperiali, in seguito titoli di proprietà
+sui *gedik* furono emessi dal ministero preposto al controllo degli
+*evkaf* imperiali.
 
-## Bibliografia
+Anche nel caso dei *gedik* vi era una doppia tassazione, corrispondente
+al pagamento anticipato per ottenere il titolo in sé (*muacelle*) e ad
+un importo giornaliero necessario per mantenere il diritto all’esercizio
+(*bedel-i müecelle*). I ministeri, con l’obiettivo di incassare il più
+possibile, emisero titoli relativi ad ogni possibile arte e mestiere,
+spesso rilasciandoli anche ad attività operanti su proprietà vincolate
+alle stesse fondazioni imperiali, venendo così a creare una situazione
+estremamente confusa sia dal punto di vista degli affitti che della
+tassazione e dei diritti di prelazione degli artigiani o commercianti.
+Infatti il diritto di esercitare veniva spesso confuso con l’attività
+materiale vera e propria, fosse questa una struttura intera o solo degli
+strumenti, andando a creare nel primo caso un problema di doppia
+proprietà. Vi era infatti l’eventualità che il detentore di un *gedik*
+potesse imporsi contro la volontà del proprietario effettivo della
+struttura di aumentare l’affitto o di rientrare in possesso del bene in
+virtù del suo permesso all’esercizio commerciale rilasciato dal
+ministero; nelle parole di Mustafa Nuri Paşa:
 
-## Note
+> “Nevertheless, it came about that those who resided as tenants for a
+> number of years in a shop, or who leased a garden, purchased gediks
+> from the Evkaf Treasury without the knowledge of the property owner.
+> Later, when the propiertor had the intention of either increasing the
+> rent or evicting the renter, since the renter intended to put into
+> execution the claim that the property owner had no right to ask
+> anything other than the rent that had been established, maintaining
+> that the property was his gedik, the right of both the propiertor and
+> the ancient the ancient vakıf to the shops, gardens, and other such
+> property became usurped and confiscated”[^39]
 
-[^1]: Dalla radice *wqf*, "tenere", "contenere"; plurale: *awqaf*.
-[^2]: cfr [@abbasi_classical_2012].
-[^3]: Sulle teorie riguardanti l'origine del *waqf* vedi *infra*.
-[^4]: cfr Compendio lessicale, *aile vakfi*.
-[^5]: Fondatore di una *waqf*.
-[^6]: Atto istitutivo di una fondazione contenente le indicazioni e i precetti da seguire. 
-[^7]: A questo scopo viene sovente inclusa nella *waqfiyya* la dicitura "finchè Noi erediteremo la terra e tutti coloro che vi abitano" (Corano, Sura XIX,40) cfr. anche [@hennigan_birth_2004] pg. XVI.
-[^8]: cfr [@hennigan_birth_2004].
-[^9]: In realtà sono ammessi in casi particolari sia la revoca che l'alienazione, la prima è accettata dalla dottrina *malikita* ed in alcune formulazioni *hanafite*. Esiste inoltre la possibilità che esaurito uno scopo prefissato una *waqf* possa essere decretata estinta da un giudice, e ritornare in possesso del proprietario o dei suoi eredi (cfr Compendio lessicale: *Lüzûm-ı vakıf*). L'alienazione di parte dei beni vincolati può essere inserita come clausola nell'atto fondativo (*waqfiyye*), ma solo come forma di scambio con altre proprietà di pari o maggior valore (cfr Compendio lessicale: *istibdal*).
-[^10]: Ad esempio i confini in caso di terreno o quantità in caso di bene misurabile.
-[^11]: Assimilabile al concetto di nuda proprietà, cfr. Compendio lessicale: *rakabe*.
-[^12]: Sono escluse dalla possibilità di revoca le seguenti casistiche: se la donazione viene fatta allo scopo di costruire e/o mantenere una moschea, se un giudice reputa lo scopo della fondazione come necessario (cfr *lüzumi vakıf*) o in seguito alla morte del fondatore. In realtà questo punto è dibattuto anche all'interno della scuola *hanafita*, l'opinione più diffusa prevede che la fondazione risulti valida anche in seguito al decesso solo se l'ammontare del lascito sia inferiore ad un terzo del valore complessivo dell'asse ereditario; secondo la dottrina successoria coranica questo è il limite massimo di cui il deceduto può disporre a piacimento per via testamentaria. In caso questo sia superiore la *waqf* rimane in essere solo in seguito al consenso esplicito degli eredi a rinunciare alle proprie quote a beneficio della fondazione.
-[^13]: Unica eccezione, concordata dalla maggior parte dei *fuqaha*, riguarda le proprietà vincolate per una moschea. Solo i beni comprati in un secondo tempo con i proventi del *waqf* possono essere ceduti a terzi cfr [@abbasi_classical_2012].
-[^14]: Per un *excursus* sulle casistiche di estinzione ed invalidazione di una fondazione vedi *infra*.
-[^15]: Si considera incapace o infermo dal punto di vista mentale non solo chi affetto da qualche forma di demenza ma anche chi è in punto di morte o affetto da malattia mortale. cfr [@castro_corso_1979] pg 20.
-[^16]: Ad esempio vedi *el-akrebu fe'l-akreb*.
-[^17]: Numerose sono le locuzioni utilizzate per indicare categorie di persone tra queste ricordiamo *el-ahvecü fe'l-ahvec*, cfr Compendio lessicale.
-[^18]: Secondo il *fiqh* il primo requisito per l'attribuzione di capacità giuridica è l'essere in vita, la scuola *malikita* tuttavia ammette la possibilità di istituire un *waqf* a favore di un feto non ancora nato, facendo risalire il momento di acquisizione di capacità giuridica l'atto del concepimento. [@castro_corso_1979] pg 3.
-[^19]: L'importanza del restauro conservativo delle proprietà vincolate è esemplificato dal caso in cui beneficiari abbiano soltanto il diritto di utilizzo di un edificio che non produce reddito (come la casa di abitazione) e non siano in grado di pagare per la manutenzione, in questa eventualità un giudice può provvedere allo sfratto e ad affittare la proprietà in modo da ottenere i mezzi per procedere al restauro, questo non comporta che una perdita temporanea della fruizione del bene da parte dei beneficiari (cfr [@abbasi_classical_2012] pg 142). 
-[^20]: cfr [@castro_lineamenti_1979] pg 107.
-[^21]: vedi *istibdal*, Compendio lessicale.
-[^22]: La scuola Hanafita considera ammissibile lo scioglimento del *waqf* nel caso il fondatore venga colpito inaspettatamente da una condizione di povertà ed indigenza. Anche in questo caso l'annullamento non è automatico ma deve essere sentenziato da un giudice interpellato dallo stesso *waqif*. Secondo *Abu Hanifa* inoltre un *waqf* veniva sciolto alla morte del fondatore per entrare a far parte dell'asse ereditario.
-[^23]:  Il *waqf ahli*.
-[^24]: Per una discussione sull'origine del *waqf* vedi *infra*.
-[^25]: Questa distinzione non appare però ancora ben formulata ai tempi di *Abu Hannifa* visto che questi considera il *waqf* alla stregua di una *sadaqa*, ritenendo che anche il primo vada estinto e diviso tra gli eredi in seguito alla morte del fondatore; anche il concetto di fondazione temporanea nella dottrina *Malikita* è probabilmente un riflesso di un utilizzo ancora intercambiabile dei due termini.
-[^26]: Da *çift*, coppia, si riteneva che questo rapporto permettesse di rendere più equo l'importo della tassa abbassandolo per i terreni di più difficile coltivazione.
-[^27]: *Temlik* o *tahsis*. Si sottolinea che la proprietà *mulk* su di un terreno *miri* anche se concessa dal Sultano non comprende mai la *rakabe*.
-[^28]: *Tekye* e *zaviye*, cfr Cap. 4.
-[^29]: Terreni vincolati ad una fondazione.
-[^30]: [@barnes_introduction_1987] pg 42.
-[^31]: cfr Cap 4. In arabo *waqf ahli*.
-[^32]: anche *Kanunname-i Arazı*Codice Fondiario.
-[^33]: *Sahih*: Genuino, autentico.
-[^34]: 'Ayn, usato spesso in alternativa a *raqaba* nella giurisprudenza islamica.
-[^35]: *vakıf-ı gayr-ı sahih* viene utilizzato genericamente per indicare una fondazione non conforme alla legge, un termine più specifico per indicare un *vakf* istituito su dei *miri arazi* è *irsad-ı vakıf* cfr Cap. 4.
-[^36]: Mercati coperti.
-[^37]: cfr. [@gurbuz_ottoman_2012] pg 204. D'altronde anche i numeri riguardanti i servizi offerti sono impressionanti, si stima ad esempio che la mensa nel complesso di *Fatih* fondato da Mehmed II fornisse tra i 2500 e i 3000 pasti gratuiti al giorno [@boyar_social_2010] pg 133. 
-[^38]: cfr *Mukataa* cap. 4.
-[^39]: il pagamento mensile, cfr *icareteyn* cap 4.
-[^40]: Si tratta degli affitti utilizzati prima dell'introduzione dell'*icareteyn* ed avevano durata massima di tre anni.
-[^41]: Pagamento anticipato parte degli adempimenti di un contratto *icareteyn* e di importo comparabile al valore effettivo dell'edificio.
-[^42]: Letteralmente "ponte lungo".
-[^43]: Ad esempio il gran rabbino per la comunità ebraica o il patriarca per quella cristiana ortodossa.
-[^44]: *Raya* o *Reya*.
-[^45]: In Ottomano la carica è *dâru's-saâde ağaliği* Cfr. Compendio Lessicale.
-[^46]: cfr [@castro_lineamenti_1979] pg 20.
-[^47]: rispettivamente "valutazione personale" e "pubblico interesse".
-[^48]: cfr [@castro_lineamenti_1979] pg 25.
-[^49]: cit. [@castro_lineamenti_1979] pg 27.
-[^50]: Impiegato ad esempio per distinguere le tasse sciaraitiche da quelle basate sulla tradizione del luogo. 
-[^51]: In netto contrasto con la *fatwa* di Ebussuud :"Se queste sono materie di örf, gli uomini della sari'a non devono occpuarsene" cfr [@castro_lineamenti_1979] pg 33.
-[^52]: cfr. [@castro_lineamenti_1979] pg 34.
-[^53]: cfr. [@castro_lineamenti_1979] pg 36.
-[^54]: cfr. Compendio Lessicale: *vakf-i gayr-i sahih* e *vakf-i sahih*.
-[^55]: Ovvero edifici, frutteti ecc. Assimilabile al concetto di diritto di superficie.
-[^56]: cfr. [@castro_lineamenti_1979] pg 90.
-[^57]: Fu calcolato da *Seyyd Mustafa Paşa* per l'ammontare di 22 milioni di *kuruş*.
-[^58]: cfr. [@barnes_introduction_1987] pg 103.
-[^59]: Per un resoconto sulle petizioni degli amministratori delle fondazioni riguardo il mancato versamento dei fondi spettanti vedere [@barnes_introduction_1987], pg 108-113.
-[^60]: cfr. [@barnes_introduction_1987] pg 103.
-[^61]: In particolare le confraternite di dervishi.
-[^62]: cfr. Corano, Sura V, 48.[@bausani_il_1978].
-[^63]: cfr. [@castro_lineamenti_1979] pg 43.
-[^64]: cfr. [@castro_lineamenti_1979] pg 48.
-[^65]: cfr. [@hennigan_birth_2004].
-[^66]: cfr. [@hennigan_birth_2004] pg 52.
-[^67]: cfr. [@hennigan_birth_2004] pg 78.
-[^68]: cfr. [@castro_lineamenti_1979].
-[^69]: cfr. [@abbasi_classical_2012], pg 128.
-[^70]: cfr. [@abbasi_classical_2012] pg 129.
-[^71]: cfr. Corano, Sura II, 181-182.[@bausani_il_1978].
-[^72]: cfr. [@bearman_wakf].
-[^73]: cfr. [@abbasi_classical_2012], pg 136.
-[^74]: cfr. [@barnes_introduction_1987].
-[^75]: cfr. [@barnes_introduction_1987] pg 35.
-[^76]: cfr. [@inalcik_ottoman_1978] pg 150.
-[^77]: cfr. [@barnes_introduction_1987] pg 42.
-[^78]: cfr. [@barnes_introduction_1987] pg 47.
-[^79]: cfr. [@gurbuz_ottoman_2012] pg 206.
-[^80]: cfr. [@boyar_social_2010] pg 129.
-[^81]: cfr. [@barnes_introduction_1987].
-[^82]: cfr. [@barnes_introduction_1987] pg 55.
-[^83]: cfr. [@boyar_social_2010] pg 150.
-[^84]: cfr. [@barnes_introduction_1987] pg 58.
-[^85]: cfr. [@castro_lineamenti_1979].
-[^86]: cfr. [@castro_lineamenti_1979].
+Gli amministratori delle *evkaf-ı hümayun* non riuscivano a tenere le
+spese sotto controllo, il denaro veniva sperperato sia per ingraziarsi i
+notabili e i potenti che perso nei passaggi burocratici amministrati da
+funzionari corrotti, e le fondazioni si trovavano costantemente in
+condizioni di deficit costringendo a cercare sempre nuove soluzioni per
+aumentare gli introiti da destinare al mantenimento degli *evkaf*. Il
+numero sempre crescente di *gedik* emessi andò di pari passo con la
+creazione di nuove attività e servizi da mettere a profitto, spesso le
+due cose coincidevano visto che una volta avviato un commercio o un sito
+produttivo venivano poi venduti i relativi permessi di lavoro a coloro
+che vi operavano. Questo fu il caso di una tintoria nel distretto di
+Yenikapı in cui lavoravano centinaia di lavoratori che affittavano la
+struttura dal *vakf* del sultano Mustafa e che furono “tenuti” ad
+acquistare anche il *gedik* per mantenere l’attività. Un altro esempio
+di esercizio istituito a questo scopo fu il servizio di trasporto via
+nave tra il Corno d’Oro, Üsküdar e Galata, assoggettato al regime delle
+licenze ministeriali.
+
+Nel 1861 d.C. fu proibita per decreto imperiale l’emissione di nuovi
+*gedik*, e conseguentemente anche la vendita dei relativi titoli di
+proprietà, tutte le contestazioni legate a questo tipo di negozio
+vennero proibite e le uniche transazioni accettate furono quelle su
+attestati già emessi e presentate al tribunale di Istanbul. La
+problematica maggiore riguardò soprattutto le sovrapposizioni che i
+*gedik* andavano a creare tra i diritti contrastanti delle parti in
+causa, ognuno aveva teoricamente una spettanza dovutagli da un titolo in
+suo possesso, e non vi era apparentemente modo di risolvere la disputa
+senza fare un torto.
+
+###3.3 Il periodo riformatore (*Tanzimat*)
+
+####3.3.1 Riforma del codice fondiario
+
+Con la proclamazione dell’editto di Gülhane nel Novembre del 1839, ebbe
+inizio il periodo di profonde riforme della struttura dell’Impero
+Ottomano. Emanato dal sultano Abdulmecit, lo scopo dichiarato nel
+preambolo era quello di allineare ai paesi Europei le pratiche
+amministrative e il rapporto tra Stato e cittadini. Abolendo formalmente
+il sistema dei *millet* e introducendo il concetto di cittadino
+ottomano, il sovrano rese tutti i sudditi uguali di fronte alla legge,
+limitando al contempo i suoi poteri nei confronti di questi, in
+particolare per quanto riguardava il diritto sulla loro vita e sui loro
+patrimoni. Fu quindi messa in atto una riforma dell’apparato giudiziario
+accentuando il ruolo laico della giustizia e sancendo la supremazia
+della *siyasa* sulla *šari’a* per quanto riguardava sia la prassi che la
+teoria giuridica.
+
+Uno dei cambiamenti più rilevanti, soprattutto per l’oggetto di questa
+tesi, fu la riforma fondiaria, attuata con il *qanunname-i erazi* del 7
+*ramazan* del 1275 H. (1858 d.C.). Approfondendo la classificazione già
+proposta da Ebüsuud secoli prima, vengono riconosciute cinque tipologie
+terriere:
+
+i.  *Arazi-i memluke*: terreni la cui proprietà piena è privata.
+
+La proprietà effettiva *mulk* era esercitata sulle aree fabbricabili e
+già edificate in ambito urbano (sia città che villaggi) e su quelle a
+meno di mezzo dönüm di distanza da queste, considerate come
+pertinenziali. La seconda sottotipologia corrisponde alle terre
+formalmente demaniali ma concesse a privati tramite una concessione
+governativa riconosciuta come conforme, *temlik-i sahih*. Vi sono poi i
+terreni redistribuiti ai condottieri ed ai soldati in seguito a
+conquista e sottoposti al regime fiscale *öşriyye* e quelli lasciati in
+gestione ai proprietari non convertiti, sui quali è dovuta l’imposta
+*harac*. Su queste terre l’editto riconosceva che la *rakabe* non fosse
+detenuta dal *bayt al-mal*, e garantiva la libera disposizione della
+proprietà sia in materia di trasferimento per vendita od eredità che di
+vincolo ad un *waqf*. Veniva inoltre sancito che le norme sciaraitiche
+sarebbero state le uniche applicabili.
+
+ii. *Arazi-i mevkufe*: terreni sottoposti a vincolo nei confronti di un
+    *waqf*. A loro volta suddivisi in propri ed impropri, a seconda che
+    fossero istituiti su *arazi-i memluke* o *arazi-i miriyye*.
+
+iii. *Arazi-i metruke*: ovvero terre abbandonate.
+
+iv. *Arazi-i mevat*: terreni incolti.
+
+v.  *Arazi-i miriyye*: terre demaniali.
+
+Visto che la proprietà privata era riconosciuta, ad esclusione delle
+aree urbane, solo tramite assegnazione diretta da parte del sultano,
+tutte le terre coltivabili dell’Impero ricadevano formalmente sotto la
+categoria *miriyye* e quindi sottoposte al *qanunname-i erazi*. Questi
+terreni erano per lo più utilizzati da contadini cui veniva concesso
+unicamente il diritto di usufrutto, *tasarruf*. Abolendo tutte le
+concessioni a soggetti terzi sulla raccolta delle tasse e
+sull’assegnazione dei terreni demaniali, l’editto riportò nelle mani
+della burocrazia imperiale il controllo delle terre agricole nel
+tentativo di limitare il potere dei notabili locali. La concessione le
+*tasarruf* avveniva tramite un atto denominato *tapu* che veniva
+rilasciato dall’amministrazione del tesoro in seguito ad un pagamento
+corrisposto direttamente ai funzionari del *bayt al-mal*. Una volta in
+possesso del diritto di usufrutto il detentore poteva disporre della
+proprietà, non era però possibile suddividerla, neanche per via
+testamentaria. Il cambiamento di destinazione d’uso era subordinato
+all’autorizzazione delle autorità, in particolare se si volevano
+costruire edifici o piantare alberi da frutto. La legge prevedeva che
+tutto ciò che era in elevato[^40] divenisse di proprietà esclusiva di
+colui che lo realizzava, fosse questi il titolare di *tapu* o un
+soggetto da lui autorizzato (solitamente tramite un contratto di affitto
+o di conduzione registrato presso la cancelleria imperiale). Gli
+*arazi-i miriyye* e tutti gli edifici su di essi erano sottoposti sia
+alla *öşr* che all’imposta fondiaria.
+
+Erano ammessi i passaggi di proprietà sul *tasarruf* anche se soggetti
+ad autorizzazione da parte dell’amministrazione, così da garantire il
+diritto di prelazione. Dietro il pagamento di un valore stabilito dai
+funzionari del tesoro e di un’imposta era possibile far valere la
+prerogativa sull’acquisto da parte degli eredi legittimi, dai titolari
+di una concessione di utilizzo del fondo o dai proprietari delle
+strutture costruite su di esso. Il *tapu* era ereditabile alla morte del
+detentore, ma questi non poteva disporne per via testamentaria, il
+terreno non poteva essere diviso e gli eredi entravano in possesso di
+quote sulla proprietà. Se il *de cuius* non aveva eredi legittimi il
+bene veniva dichiarato vacante (*mahlul*) e ritornava a disposizione del
+*bayt al-mal*, poteva comunque essere rivendicato da coloro che avevano
+diritto di prelazione come nel caso del passaggio di proprietà. Nel caso
+il detentore di *tapu* si rendesse colpevole di mancata coltivazione, o
+di cattiva gestione del fondo, e quindi di un mancato introito per
+l’erario per la durata di tre anni, il *tasarruf* veniva revocato e il
+terreno diveniva *mahlul* e messo all’asta.
+
+Era altresì prevista la possibilità di dare in pegno un diritto di
+usufrutto per ripagare un creditore, si trattava a tutti gli effetti di
+una vendita diritto di riscatto rivendicabile una volta estinto il
+debito contratto:
+
+> “se il debitore, in corrispettivo del suo debito, o per
+> l’intermediario del un pubblico funzionario, vende al suo creditore la
+> terra di cui ha la proprietà utile, a condizione che questi clie la
+> restituisca al pagamento del debito, oppure gliela vende a patto di
+> riscatto, cioè che in qualunque momento avrà soddisfatto il suo debito
+> avrà diritto di reclamare la restituzione della terra, questo debitore
+> non può esigere tale restituzione prima d’aver estinto il suo debito,
+> abbia o non abbia fissato per ciò un termine; egli non può riprendere
+> la terra se non dopo il pagamento completo.”[^41]
+
+####3.3.2 L’amministrazione centralizzata degli *evkaf*
+
+Uno degli ambiti di applicazione delle riforme introdotte con l’editto
+di Gülhane fu l’amministrazione degli *evkaf*. Finora l’onere di
+controllo sull’operato delle fondazioni era delegato alle
+amministrazioni provinciali, ed in particolare ai *qāḍi* appuntati
+localmente. Vista però la pratica corrente di approfittare di questo
+incarico a proprio beneficio, con conseguente danno per l’erario[^42],
+fu reputato necessario istituire un ministero preposto, controllato a
+sua volta dal *bayt al-mal*:
+
+> “While it has been the customary procedure to confer on persons the
+> office of administrator (tevliyet), preacher (hitabet), and prayer
+> leader (imamet) by the kadıs and their deputies (şer’iye memurları),
+> since excessive and exorbitant fees have been taken by these şer’iye
+> officials, and whereas posts have been conferred by them upon those
+> who are either unqualified or incompetent, and in view of the fact
+> that contradictory decisions both for and against litigants have been
+> given by the kadıs and their substitutes (naibs), henceforth the
+> issuing of these decisions and the conferral of these offices will be
+> made by officials placed in the sancaks and the eyalets who are known
+> as muavellat nazırları, and in places where these officials do not
+> exist, by voyvodes and mütesellims (governors and deputy lieutenant
+> governors).”[^43]
+
+Anche laddove non venivano ravvisate pratiche di corruzione, era
+comunque riconosciuta una condizione di generale cattiva
+amministrazione, soprattutto riguardante le proprietà vincolate alle
+fondazioni imperiali e alle *haremayin evkaf*. Attribuendo questa
+situazione al mancato impegno dei *qāḍi*, fu quindi tolto loro
+l’incarico e conferito a funzionari alle dirette dipendenze del
+Ministero del Tesoro o in caso di impossibilità a notabili locali da
+loro nominati. Per evitare di sovraccaricare di spese ulteriori il *bayt
+al-mal* fu altresì stabilito che queste cariche fossero compensate in
+proporzione alle rendite generate dalle proprietà e pagate direttamente
+dal *waqf* stesso, prima ancora di redistribuire i guadagni tra i
+beneficiari. Anche le pene per pratiche amministrative contrarie al
+beneficio delle fondazioni furono inasprite, e i beni dei fiduciari
+messi sotto scrutinio annuale.
+
+Il sistema di raccolta delle tasse, delle rendite e la redistribuzione
+dei guadagni veniva così centralizzato, e tutte le cariche e i servizi
+resi al *waqf* erano pagati dal Ministero del Tesoro. Questo cambiamento
+portò ad un drastico ridimensionamento dei compensi devoluti agli
+amministratori e ai dipendenti degli *evkaf*, che quando erano i soli
+responsabili del controllo e della ripartizione dei proventi
+provvedevano ad assegnarsi stipendi di molto superiori a quelli previsti
+dal fondatore, ed in alcuni casi anche incompatibili con le reali
+possibilità finanziarie della fondazione. Una volta inquadrati alla
+stregua di dipendenti statali gli emolumenti ricalcolati non furono più
+compatibili con lo stile di vita esercitato da questi, la situazione
+divenne particolarmente insostenibile nel caso di amministratori che non
+svolgessero anche altri servizi alle dipendenze del *waqf:* i compensi
+previsti per il ruolo di *tevliyet* e *mutawalli* erano infatti più che
+altro nominativi. Numerosissime furono quindi le petizioni al governo
+per richiedere aumenti ed aiuti finanziari. La nuova gestione però
+permetteva di fare concessioni di questo tipo solo in caso non
+risultassero a carico del governo, era quindi previsto di redistribuire
+fondi e beni solo nel caso fossero in stato vacante (*mahlul*), fu così
+impossibile approvare tutte le richieste pervenute, che vennero in
+effetti accettate solo in minima parte.
+
+Un’altra fonte di problemi furono le procedure e i passaggi burocratici
+cui venivano sottoposti i ricavi degli *evkaf* prima di poter essere
+effettivamente utilizzati e redistribuiti. Una volta raccolti dai
+funzionari locali dovevano infatti essere versati nelle casse del tesoro
+che a sua volta li avrebbe dovuti consegnare al Ministero delle
+Fondazioni. Da qui poi era possibile autorizzare i pagamenti degli
+stipendi e dei compensi per le cariche e per i dipendenti degli *evkaf*.
+Anche tutti i lavori di manutenzione sugli edifici e sui terreni erano
+soggetti al parere positivo da parte dei funzionari ministeriali, senza
+il quale non era possibile sbloccare i fondi.
+
+Avveniva spesso, inoltre, che i ricavi di alcune fondazioni non
+venissero prontamente trasferiti dal Ministero del Tesoro, creando così
+situazioni di insolvenza da parte dell’*Evkaf-ı Hümayun Hazinesi* che si
+vedeva costretto a chiedere prestiti per poter pagare i salari dei
+propri dipendenti. Le imposte e le rendite venivano infatti raccolte
+dagli stessi esattori che si occupavano delle tasse dovute al *bayt
+al-mal*, e non a funzionari subordinati al Ministero delle Fondazioni,
+ciò comportava che spesso i calcoli sugli importi dovuti erano
+effettuati aggregando diverse tipologie di pagamenti, e, una volta
+entrati nelle casse del tesoro, diveniva praticamente impossibile
+ricalcolare le quote da ripartire tra gli aventi diritto. Anche le
+*müstesna evkaf* erano affette da questa procedura e spesso capitava che
+i fondi di loro spettanza si perdessero nei meandri dei registri
+contabili dell’amministrazione centrale[^44].
+
+Sempre per editto governativo vennero inoltre rimessi in discussione
+tutti gli atti riguardanti esenzioni dalle imposte emessi dal governo e
+dagli amministratori provinciali; di pari passo con la riforma del
+catasto e la registrazione di tutte le proprietà e i beni nel
+*defterhane*, veniva richiesto ai proprietari e agli amministratori di
+fornire prova degli sgravi fiscali di cui godevano, se questi non
+fossero stati in grado di produrre la relativa documentazione o nel caso
+questa non corrispondesse esattamente con la copia registrata
+nell’ufficio del catasto, l’esenzione risultava non valida e veniva
+cancellata:
+
+> “In 1269/1853 the şeyh of Samit Balı türbe located in the village of
+> Hamidiye in Ayaş kaza in the region of Ankara filed a petition
+> claiming tht tax was not to be taken from land belonging to the türbe
+> because of an emr-i ali, or imperial writ he had in his possession.
+> The reply of the government was that while patents of this kind had
+> been given by past sultans. they were restricted for the support of
+> poor dervishes; but subsequently şeyhs, zavierdars and mütevellis
+> began taking this and that land strictly for their own naked profit,
+> and so it was not permitted for them to be excused from taxes on land
+> which they had in their possession by this type of title deed
+> (tapu).”[^45]
+
+L’attività di controllo e supervisione fu condotta in maniera
+indiscriminata, e moltissime furono le fondazioni preposte al
+mantenimento di ordini di religiosi dediti al voto di povertà che ne
+furono affetti[^46], precipitando in una condizione di indigenza.
+
+Il caos amministrativo raggiunse l’apogeo in seguito alla fondazione
+della Repubblica turca, il neo fondato Direttorato Generale delle
+Fondazioni (DGF), *Genel Vakıflar Müdürlüğü,* si dovette occupare di
+tutte le incombenze burocratiche, oltre che procedere alla liquidazione
+di numerosi beni oggetto di esproprio da parte del governo.
+
+Tra gli eventi più salienti tra quelli che portarono al temporaneo
+declino dell’istituto del *vakf* ricordiamo: la decisione di trasferire
+a titolo gratuito la proprietà di tutti gli edifici preposti ad attività
+culturali ed educative al nuovo Ministero dell’Istruzione, l’obbligo da
+parte del DGF di finanziare per intero la costruzione della prima linea
+di trasporto pubblico su rotaia ad Istanbul per poi cederne la proprietà
+al comune e l’eclatante fondazione della *VakıfBank* nel 1954 cui venne
+affidata la gestione dell’immenso patrimonio degli *evkaf* costituiti in
+denaro, di fatto sancendo la cessazione e l’abolizione di questo tipo di
+fondazioni[^47].
+
+[^1]: Ad esempio il gran rabbino per la comunità ebraica o il patriarca
+    per quella cristiana ortodossa.
+
+[^2]: *Raya* o *Reya*.
+
+[^3]: Cfr. Compendio Lessicale.
+
+[^4]: cfr (Castro 1979b) pg 20.
+
+[^5]: Rispettivamente “valutazione personale” e “pubblico interesse”.
+
+[^6]: cfr (Castro 1979b) pg 25.
+
+[^7]: cit. (Castro 1979b) pg 27.
+
+[^8]: Impiegato ad esempio per distinguere le tasse sciaraitiche da
+    quelle basate sulla tradizione del luogo.
+
+[^9]: In netto contrasto con la *fatwa* di Ebüsuud :“Se queste sono
+    materie di örf, gli uomini della šari’a non devono occpuarsene” cfr
+    (Castro 1979b) pg 33.
+
+[^10]: cfr. (Castro 1979b) pg 34.
+
+[^11]: cfr. (Castro 1979b) pg 36.
+
+[^12]: cfr. (Barnes 1987).
+
+[^13]: cfr. (Barnes 1987) pg 35.
+
+[^14]: Da *çift*, coppia, si riteneva che questo rapporto permettesse di
+    rendere più equo l’importo della tassa abbassandolo per i terreni di
+    più difficile coltivazione.
+
+[^15]: *Temlik* o *tahsis*. Si sottolinea che la proprietà *mulk* su di
+    un terreno *miri* anche se concessa dal sultano non comprende mai la
+    *rakabe*.
+
+[^16]: *Tekye* e *zaviye*, cfr Compendio Lessicale..
+
+[^17]: cfr. (Inalcik 1978) pg 150.
+
+[^18]: *Terreni vincolati ad una fondazione.*
+
+[^19]: (Barnes 1987) pg 42.
+
+[^20]: *cfr Cap 4. In arabo waqf ahli*.
+
+[^21]: cfr. (Barnes 1987) pg 42.
+
+[^22]: *anche Kanunname-i Arazı* Codice Fondiario.
+
+[^23]: *vakıf-ı gayr-ı sahih* viene utilizzato genericamente per
+    indicare una fondazione non conforme alla legge, un termine più
+    specifico per indicare un *vakf* istituito su dei *miri arazi* è
+    *irsad-ı vakıf* cfr Cap. 4.
+
+[^24]: *Sahih*: Genuino, autentico.
+
+[^25]: ’Ayn, usato spesso in alternativa a *raqaba* nella giurisprudenza
+    islamica.
+
+[^26]: cfr. (Barnes 1987) pg 47.
+
+[^27]: *Mercati coperti.*
+
+[^28]: *Letteralmente “ponte lungo”.*
+
+[^29]: *cfr. (Gürbüz 2012) pg 206.*
+
+[^30]: cfr. (Gürbüz 2012) pg 204. D’altronde anche i numeri riguardanti
+    i servizi offerti sono impressionanti, si stima ad esempio che la
+    mensa nel complesso di *Fatih* fondato da Mehmed II fornisse tra i
+    2500 e i 3000 pasti gratuiti al giorno (Boyar and Fleet 2010) pg
+    133.
+
+[^31]: cfr. (Boyar and Fleet 2010) pg 129.
+
+[^32]: *cfr. (Barnes 1987).*
+
+[^33]: cfr *Mukataa* cap. 4.
+
+[^34]: *il pagamento mensile, cfr icareteyn* cap 4.
+
+[^35]: *Si tratta degli affitti utilizzati prima dell’introduzione
+    dell’icareteyn* ed avevano durata massima di tre anni.
+
+[^36]: *Pagamento anticipato parte degli adempimenti di un contratto
+    icareteyn* e di importo comparabile al valore effettivo
+    dell’edificio.
+
+[^37]: cfr. (Barnes 1987) pg 55.
+
+[^38]: cfr. (Boyar and Fleet 2010) pg 150.
+
+[^39]: cfr. (Barnes 1987) pg 58.
+
+[^40]: Ovvero edifici, frutteti ecc. Assimilabile al concetto di diritto
+    di superficie.
+
+[^41]: cfr. (Castro 1979b) pg 90.
+
+[^42]: Fu calcolato da *Seyyd Mustafa Paşa* per l’ammontare di 22
+    milioni di *kuruş*.
+
+[^43]: cfr. (Barnes 1987) pg 103.
+
+[^44]: Per un resoconto sulle petizioni degli amministratori delle
+    fondazioni riguardo il mancato versamento dei fondi spettanti vedere
+    (Barnes 1987), pg 108-113.
+
+[^45]: cfr. (Barnes 1987) pg 103.
+
+[^46]: In particolare le confraternite di dervishi.
+
+[^47]: Cfr (Çizakça 2000)

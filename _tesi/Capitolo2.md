@@ -1,7 +1,7 @@
 ---
 published: true
 layout: essay
-title: Capitolo 2: Il Waqf ( وقــف)
+title: Capitolo 2 Il Waqf ( وقــف)
 tags: [tesi]
 categories:
 - essay

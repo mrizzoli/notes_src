@@ -1,7 +1,7 @@
 ---
 published: true
 layout: essay
-title: Capitolo 3: Il mondo ottomano
+title: Capitolo 3 Il mondo ottomano
 tags: [tesi]
 categories:
 - essay

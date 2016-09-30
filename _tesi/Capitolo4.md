@@ -1,7 +1,7 @@
 ---
 published: true
 layout: essay
-title: Capitolo 4: Conclusioni
+title: Capitolo 4 Conclusioni
 tags: [tesi]
 categories:
 - essay

@@ -1,7 +1,7 @@
 ---
 published: true
 layout: essay
-title: Capitolo 1: Breve introduzione alla storia del diritto Musulmano
+title: "Capitolo 1: Breve introduzione alla storia del diritto Musulmano"
 tags: [tesi]
 categories:
 - essay

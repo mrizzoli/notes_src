@@ -1,11 +1,3 @@
----
-published: true
-layout: essay
-title: Capitolo
-tags: [tesi]
-categories:
-- essay
----
 
 # Conclusioni
 

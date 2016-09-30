@@ -1,5 +1,11 @@
-##1.  Capitolo 1: Breve introduzione alla storia del diritto Musulmano
-    ================================================================
+---
+published: true
+layout: essay
+title: Capitolo 1: Breve introduzione alla storia del diritto Musulmano
+tags: [tesi]
+categories:
+- essay
+---
 
 ###1.1 *Ğaḥiliyya*: il periodo pre-islamico
         

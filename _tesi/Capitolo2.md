@@ -1,5 +1,11 @@
-##Capitolo 2: Il Waqf ( وقــف )
-    =============================
+---
+published: true
+layout: essay
+title: Capitolo 2: Il Waqf ( وقــف)
+tags: [tesi]
+categories:
+- essay
+---
 
 ###2.1 Teorie sull’origine del *Waqf*
    

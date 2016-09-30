@@ -1,4 +1,11 @@
-##Capitolo 3: Il mondo ottomano
+---
+published: true
+layout: essay
+title: Capitolo 3: Il mondo ottomano
+tags: [tesi]
+categories:
+- essay
+---
 
 Una volta affermato il predominio nei territori dell’Anatolia e Rumelia,
 i sovrani ottomani cominciarono a considerarsi quali legittimi eredi

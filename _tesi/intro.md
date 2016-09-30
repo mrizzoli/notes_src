@@ -1,5 +1,11 @@
-Introduzione
-============
+---
+published: true
+layout: essay
+title: Introduzione
+tags: [tesi]
+categories:
+- essay
+---
 
 Risultato dell’elaborazione giuridica a partire da una tradizione
 probabilmente estranea a quella araba[^1], il *waqf*[^2] ebbe un

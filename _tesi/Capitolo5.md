@@ -1,13 +1,11 @@
 ---
 published: true
 layout: essay
-title: Capitolo
+title: Compendio Lessicale
 tags: [tesi]
 categories:
 - essay
 ---
-
-# Compendio Lessicale
 
 **A**
 

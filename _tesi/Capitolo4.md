@@ -1,4 +1,11 @@
-###Capitolo 4: Conclusioni
+---
+published: true
+layout: essay
+title: Capitolo 4: Conclusioni
+tags: [tesi]
+categories:
+- essay
+---
 
 ####4.1 Il waqf in denaro
     

@@ -32,3 +32,11 @@ One criticism to this is that the category is so broad that don't let us analyze
 
 Other sociologists observed that civic groups can also create social tunnels instead of social bridges, thus hindering cohesion among citizens, when they are more focused on their members' shared interests preventing them to actively join and participate in civil society as a whole. According to Jason Kauffman civic groups can build moats instead of bridges (cit. pg 29) as he noticed in civic clubs based on different backgrounds and ethnicities that were increasing differences. Neo-Tocquevillians' defense against this argument is that this kind of civic groups can be considered an outlier, and exception to the norm that belongs to some sort of dark side of civil society. But this approach can't answer and is not productive in addressing the main question of how and what let a civic group to start the social spyral, especially refusiong to analyze the different dynamics of different groups removing some of them *a priori* from the study.
 
+So one of the main question under scrutiny here is:
+>Is casual, serial vounteering a good indicator of social capital? (pg 82)
+As the author puts it,
+>the relationships that constitute social capital sustain a "regular connection among individuals" (Putanm 2000), and is comprised of relationships in which people are "doing with" others. (ibidem)
+
+Acceptive passively that any kind of volunteering and associationism creates and bolster social capial has also the implicit consqeuence of regarding any kind of relationship and dynamic developed by volunteers and recipient as a "reguar connection", and doesn't analyze its very own nature. For example:
+>Volunteering in a loosely connected network [..] did not teach us how to create more enduring bridges.
+

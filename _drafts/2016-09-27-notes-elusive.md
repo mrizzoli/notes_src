@@ -50,5 +50,11 @@ Sometimes the success of a program whose main goal is to build "bridges" between
 Again, in the case aboupt "adopt a family" program the lack of reflexivity didn't let the volunteers bridge the gap between them and the families they were trying to help, thus prventing categorizing the 'poor' in any other way than their own preconcieved ideas:
 > Thouthgfully sensitive to *differences* between their families and themselves, the volunteers did not ove from sensitivity to active, reflective curiosity about a biger social world that made "differences" into inequalities, as well as barriers to communication (pg 137).
 
+One criticism is that apparently evangelical groups' course of action relentelessy rely on the self centered idea that personal action can be sufficnent to address the adressee's situations one by one ameliorating them just by the strength of the connection, thus leaving out the principal outcome for a positive engagement of civic groups, that is to create bridges, or as Tocqueville put it the positive spiral to social cohesion. This approach is reflected not only in the diffuculties the volunteers face when approaching 'their' families but also in the social interactions among group's memebers among themselves, that are described by the author as 'awkward'.
+
+>Charity imposed from outside may count as a kind of bridge relationship if the charity is accepted and endures over time, but it hardly empowers social self-orgnization the way Tocquevillians would hope.
+
+
+
 
 

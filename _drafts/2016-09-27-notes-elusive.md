@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: essay
+categories:
+- notes
 ---
 ## Notes from Elusive Togetherness
 
@@ -39,4 +42,13 @@ As the author puts it,
 
 Acceptive passively that any kind of volunteering and associationism creates and bolster social capial has also the implicit consqeuence of regarding any kind of relationship and dynamic developed by volunteers and recipient as a "reguar connection", and doesn't analyze its very own nature. For example:
 >Volunteering in a loosely connected network [..] did not teach us how to create more enduring bridges.
+
+The question of reflexivity revolves around two key issues, firstly about not investigating ourselves how we act and what drives our actions and secondly about not being able to include difrerent point of views in the discussion thus thwarting the possibility to actualy reach out to a variety of individuals that although are interested in the general topic offer a different reading of it 
+
+Sometimes the success of a program whose main goal is to build "bridges" between individuals can't simply be measured by its material outcome, especially since it might be reached more succesfully by providing some sort of moral support, or "helping the families in small practical ways" (cit. pg 135) that can hardly be accounted for but that might might succeed better in creating enduring connections.
+
+Again, in the case aboupt "adopt a family" program the lack of reflexivity didn't let the volunteers bridge the gap between them and the families they were trying to help, thus prventing categorizing the 'poor' in any other way than their own preconcieved ideas:
+> Thouthgfully sensitive to *differences* between their families and themselves, the volunteers did not ove from sensitivity to active, reflective curiosity about a biger social world that made "differences" into inequalities, as well as barriers to communication (pg 137).
+
+
 

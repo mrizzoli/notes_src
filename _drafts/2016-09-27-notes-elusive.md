@@ -6,7 +6,7 @@ categories:
 ---
 ## Notes from Elusive Togetherness
 
-From Putnam's study on civil society in Italy and in America we see how civic groip membership has been dropping since 1960s, Lichterman argues that the concept of social capital is not fully adequate to address the issue at hand. In his argument Liechtermann sustains that it's also important to look at the kind and the different meanings of ties that civic groups can build and how these ties can "contribute to a greater civic togetherness in America". In his words: 
+From Putnam's study on civil society in Italy and in America we see how civic group membership has been dropping since 1960s, Lichterman argues that the concept of social capital is not fully adequate to address the issue at hand. In his argument Liechtermann sustains that it's also important to look at the kind and the different meanings of ties that civic groups can build and how these ties can "contribute to a greater civic togetherness in America". In his words: 
 > My goal was to understand how different meanings that group gave to ties might influence the relationship they could create as they reached beyond the group.
 
 He also draws a distintion between the political analysis of social problems and the set of customs and practices employed to address them:
@@ -53,6 +53,7 @@ Again, in the case aboupt "adopt a family" program the lack of reflexivity didn'
 One criticism is that apparently evangelical groups' course of action relentelessy rely on the self centered idea that personal action can be sufficnent to address the adressee's situations one by one ameliorating them just by the strength of the connection, thus leaving out the principal outcome for a positive engagement of civic groups, that is to create bridges, or as Tocqueville put it the positive spiral to social cohesion. This approach is reflected not only in the diffuculties the volunteers face when approaching 'their' families but also in the social interactions among group's memebers among themselves, that are described by the author as 'awkward'.
 
 >Charity imposed from outside may count as a kind of bridge relationship if the charity is accepted and endures over time, but it hardly empowers social self-orgnization the way Tocquevillians would hope.
+
 
 
 

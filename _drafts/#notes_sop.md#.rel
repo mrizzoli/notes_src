@@ -1,0 +1,24 @@
+;; RefTeX parse info file
+;; File: /home/mrizzoli/notes_src/_drafts/#notes_sop.md#
+;; User: mrizzoli (marco rizzoli)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/home/mrizzoli/notes_src/_drafts/")
+
+(label-numbers)
+
+(bof "/home/mrizzoli/notes_src/_drafts/#notes_sop.md#")
+
+(eof "/home/mrizzoli/notes_src/_drafts/#notes_sop.md#")
+))
+

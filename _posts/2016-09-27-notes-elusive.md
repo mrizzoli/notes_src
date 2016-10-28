@@ -4,7 +4,7 @@ published: true
 date: 27-09-2016
 bibliography: ~/notes_src/biblio/biblio.bib
 categories:
- - sop
+ - notes
 layout: essay
 tags:
 - third sector

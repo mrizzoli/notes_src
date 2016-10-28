@@ -1,10 +1,16 @@
 ---
+title: Notes from Elusive Togetherness
 published: true
-layout: essay
+date: 27-09-2016
+bibliography: ~/notes_src/biblio/biblio.bib
 categories:
-- notes
+ - sop
+layout: essay
+tags:
+- third sector
+- ngo
+- developing economies
 ---
-## Notes from Elusive Togetherness
 
 From Putnam's study on civil society in Italy and in America we see how civic group membership has been dropping since 1960s, Lichterman argues that the concept of social capital is not fully adequate to address the issue at hand. In his argument Liechtermann sustains that it's also important to look at the kind and the different meanings of ties that civic groups can build and how these ties can "contribute to a greater civic togetherness in America". In his words: 
 > My goal was to understand how different meanings that group gave to ties might influence the relationship they could create as they reached beyond the group.

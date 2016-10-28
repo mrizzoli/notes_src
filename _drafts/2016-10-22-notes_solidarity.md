@@ -11,3 +11,5 @@ In this view Solidarity becomes part of a political project of democratization a
 The danger of reditributive politics relates to group membership issues when it is a prerequisite to be part of the redistribution, challenging the concept of equal freedom when politics push for a shift from right based welfare to charity based welfare, in this case one possible outcome is the exacerbation of wealth gap between communities that are supposed to be part of the same wider society therefore strengthening inequalities and ingroup solidarity
 
 The pairing of individualism (as in individual freedom) and solidarity can be interpreted as the fullfilment of Neo Tocquevillian interpretation of civil society, but the lack of equal freedom prevents the rise of Solidarity
+
+

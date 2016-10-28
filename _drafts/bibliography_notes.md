@@ -40,3 +40,8 @@ Ethnography of philanthropy
 ###Salamon et al. [@salamon_third_1997]
 
 Quantitative approach to analyze third sector in emerging economies
+
+### Hann: [@hann_civil_1996]
+
+Reshaping the concept of third sector according to data emerged from developing countries
+

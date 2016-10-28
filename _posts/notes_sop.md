@@ -1,6 +1,6 @@
 ---
 title: SOP notes and ideas
-published: true
+published: false
 date: 28-10-2016
 bibliography: ~/notes_src/biblio/biblio.bib
 categories:

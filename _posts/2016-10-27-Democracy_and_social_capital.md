@@ -12,9 +12,7 @@ tags:
 - developing economies
 ---
 
-Reference:
-
-[@warren_democracy_1999]: Democracy and social capital by Eric M. Uslaner
+Reference: [@warren_democracy_1999]: Democracy and social capital by Eric M. Uslaner
 
 
 The concept of trust is central in a prosperous Democracy as it is a preminent part of what Putnam defined as social capital, and in Uslaner's conceptualization is important as it sets moral values that are precurors of civic networks and social connectedness. Trust leads to cooperation by pushing people to behave morally and develop feelings of reciprocity to each other.

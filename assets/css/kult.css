@@ -55,30 +55,30 @@ html, body, button, input, select, textarea {
 	font-weight: 300;
 }
 
-body{
-    margin: 0 auto;
-    background-color: #FFFFFF;
-}
+/* body{ */
+/*     margin: 0 auto; */
+/*     background-color: #FFFFFF; */
+/* } */
 
-body, textarea {
-    line-height: 1.4;
-}
+/* body, textarea { */
+/*     line-height: 1.4; */
+/* } */
 
 
-body:after {
-    clear: both;
-    content: "";
-    display: table;
-}
+/* body:after { */
+/*     clear: both; */
+/*     content: ""; */
+/*     display: table; */
+/* } */
 
-body {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 42rem;
-    display: block;
-}
+/* body { */
+/*     padding-left: 1rem; */
+/*     padding-right: 1rem; */
+/*     margin-left: auto; */
+/*     margin-right: auto; */
+/*     max-width: 42rem; */
+/*     display: block; */
+/* } */
 
 
 

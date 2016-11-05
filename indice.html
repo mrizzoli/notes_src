@@ -15,7 +15,6 @@ layout: default
             {% for post in posts %}
             {% if post.title != null %}
             {% if group == null or group == post.group %}
-            {% for post in site.posts limit:3 %}
             <div class="col-md-3">
               <t1><li><a href="{{ post.url }}">{{ post.title }}&nbsp;</a></li></t1>
               <t2>{{ post.date | date_to_string }}</t2>&nbsp;<br>
@@ -23,7 +22,6 @@ layout: default
               <t2> {{tag}} </t2>&nbsp;
               {% endfor %}
             </div>
-            {% endfor %}
             {% endif %}
             {% endif %}
             {% endfor %}

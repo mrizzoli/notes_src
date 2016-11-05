@@ -1,3 +1,19 @@
+---
+title: Solidarity among strangers
+published: true
+date: 28-10-2016
+bibliography: /home/mrizzoli/notes_src/biblio/biblio.bib
+categories:
+ - notes
+layout: essay
+tags:
+- third sector
+- trust
+- solidarity
+
+link-citations: true
+
+---
 
 Reference: [@candas_solidarity_2010]
 
@@ -28,6 +44,7 @@ The link between Solidarity and welfare regime transformation under neoliberalis
 >The satisfaction of economic needs of the disadvantaged and their right to be recognized as equal members can either remain unmet, be transfered to voluntary and fickle benevolence or left to be satisfied through culturally informed practices within the closed community. [...] (subsequently) the principle of equal freedom of all is seriously challenged in all cases where charity replaces formal rights based state transfers. [...] In the case of particularly disadvantaged groups, such arbitrary and informal arrangements would necessarily exacerbate existing inequalities among the members of the wider society and widen the gaps among the communities.
 
 The endogenous factor is the key element to explain a "cultural" shift to narrower forms of solidarity:
+
 >people who belong to different identity or interest groups might, at a particular historical juncture, begin to prioritize their ascriptive identity over the social bond defined in terms of inclusive democratic citizenship. [...] not necessarily because people conceive of s as an aleternative to an already established S, but most likely because S is not available or failed and became delegitimized within that context.
 
 (again we see a link to economic crisis as also pointed out by Tugal [@tugal_contesting_2013], in this sense if it's all about economic policies toward welfare and economic conjunctions we should expect something like Kondrateff's waves in diffusion of solidarity and political polarization)

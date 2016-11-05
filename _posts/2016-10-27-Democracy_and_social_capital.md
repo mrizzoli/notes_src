@@ -7,9 +7,10 @@ categories:
  - notes
 layout: essay
 tags:
-- third sector
-- ngo
-- developing economies
+-Trust
+-Social Capital
+-Democracy
+
 ---
 
 Reference: [@warren_democracy_1999]: Democracy and social capital by Eric M. Uslaner
@@ -27,6 +28,7 @@ He also repeats the concept of "bad associations" like KKK or similar exclusive 
 >When people trust only their kind, they withdraw from civic life. [...] As trust in others falls so does participation in civic activities
 
 The television thesis proposed by Putnam to explain the ebbing of civic activism depends on the fact that time spent in front of the tv is the single biggest change in american society since the 50ies.. (but it doesn't say why it is considered a cause and not a consequence) and as the author puts it:
+
 >The generations raised on television [...] became the new misanthropes. They are less trusting and join fewer voluntary organizations.
 
 In the Author's analysis although this thesis seems to be unable to account for the change in civic activism as apparently some time of tv shows actually lead people to be more engaged. He then proposes optimism vs pessimism as a explanatory variable for trust, as there are relatively few distrusting optimists as well as few trusting pessimists (this looks almost a tautology to me as we defined trust as a bet for long run benefits so obviously who ahs faith in the future would think that there are better odds at winning betting on trust than who hasn't, also definition of being optimist as posed by the author seems to imply some feelings and attitudes that alread encompass the concept of trust as being part of being optimists).

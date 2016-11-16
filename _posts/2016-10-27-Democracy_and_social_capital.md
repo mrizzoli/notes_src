@@ -2,14 +2,13 @@
 title: Notes from Democracy and Social Capital
 published: true
 date: 27-10-2016
-bibliography: /home/mrizzoli/notes_src/biblio/biblio.bib
+bibliography: ~/notes_src/biblio/biblio.bib
 categories:
  - notes
 layout: essay
 tags:
-- Trust
-- Social Capital
-- Democracy
+- trust
+- social Capital
 
 link-citations: true
 

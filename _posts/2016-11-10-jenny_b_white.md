@@ -1,18 +1,23 @@
 ---
 
-title: 
-published: 
-date: 
+title: Civil society in Turkey
+published: true
+date: 10-11-2016
 bibliography: /home/mrizzoli/notes_src/biblio/biblio.bib
-categories:
+categories: notes
 
-layout: 
+layout: essay
 
 tags:
+- civil society
+- turkey
+- informal networks
 
 link-citations: true
 
 ---
+
+Reference: article from [@hann_civil_1996]
 
 Jenny B. White's argument is that civic cultures exist in Turkey on a community level that precedes and upon which social movements build their networks.
 

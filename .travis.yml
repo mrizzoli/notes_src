@@ -5,17 +5,17 @@ branches:
     - master
 
 #Al momento non funziona, apt da un errore durante l'installazione dei pacchetti
-#sudo: false
-#addons:
-#  apt:
-#    sources:
-#    - debian-sid
-#    packages:
-#    - pandoc
-#    - pandoc-citeproc
+sudo: false
+addons:
+  apt:
+    sources:
+    - debian-sid
+    packages:
+    - pandoc
+    - pandoc-citeproc
 
 before_install:
-  - sudo add-apt-repository ppa:marutter/c2d4u -y
+#  - sudo add-apt-repository ppa:marutter/c2d4u -y
   - sudo apt-get update -q
   - sudo apt-get install pandoc pandoc-citeproc -y
 

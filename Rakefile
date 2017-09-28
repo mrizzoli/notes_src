@@ -76,7 +76,7 @@ namespace :site do
     Dir.chdir(EXTERNAL) { sh "git checkout #{DESTINATION_BRANCH}" }
 
     # Generate the site
-    sh "bundle exec jekyll build --trace"
+    sh "bundle exec jekyll build --trace --incremental"
 
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]

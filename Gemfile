@@ -4,7 +4,7 @@ source "https://rubygems.org"
 # gem "rails"
 gem 'git'
 gem 'jekyll'
-#gem 'feedjira'
+gem 'feedjira'
 #gem 'octokit'
 gem 'pandoc-ruby'
 gem "rake"#  , "~> 10.2.1"

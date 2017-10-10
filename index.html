@@ -4,7 +4,7 @@ layout: page
 
 {% for post in site.posts limit:10 %}
   <h2 class="post-title">
-    <a href="{{post.url | prepend:site.baseurl | prepend:site.url}}">
+    <a href="{{ site.baseurl}}{{ post.url }}">
       {{ post.title }}
     </a>
   </h2>
@@ -32,6 +32,6 @@ layout: page
 
 <div class="post-footer">
   <div class="column-full">
-    <h3><a href="{{ '/archive.html' | prepend: site.baseurl | prepend: site.url }}">Blog archive</a></h3>
+    <h3><a href="{{ '/archive.html' | prepend: site.baseurl  }}">Blog archive</a></h3>
   </div>
 </div>

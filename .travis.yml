@@ -1,0 +1,18 @@
+language: ruby
+cache: bundler
+branches:
+  only:
+    - master
+
+dist: trusty
+sudo: required
+
+before_install:
+  - sudo apt-get update -q
+  - sudo apt-get install pandoc pandoc-citeproc -y
+
+install: 
+  - travis_retry bundle install
+
+script:
+  - bundle exec rake site:deploy --quiet

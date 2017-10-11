@@ -7,10 +7,10 @@ author:
 givenName: Marco
 familyName: Rizzoli
 github: mrizzoli
-url: mrizzoli.github.io
+url: http://mrizzoli.github.io
 
 username: mrizzoli
-repo: notes_src
+repo: notebook
 
 scholar:
   style: apa
@@ -24,7 +24,7 @@ scholar:
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
-baseurl: '/notes_src'
+baseurl: '/notebook'
 
 share:
   facebook: true

@@ -5,7 +5,7 @@ date: 27-09-2016
 bibliography: ~/notes_src/biblio/biblio.bib
 categories:
  - notes
-layout: essay
+layout: post
 tags:
 - third sector
 - ngo

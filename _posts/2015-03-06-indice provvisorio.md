@@ -1,6 +1,6 @@
 ---
 published: false
-layout: essay
+layout: post
 categories:
   - notes
 ---

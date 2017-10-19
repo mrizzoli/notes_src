@@ -4,13 +4,12 @@ author: "Marco Rizzoli"
 email: marco@rizzoli.me.uk
 baseurl: "/notebook"
 url: http://rizzoli.me.uk
+repo: notebook
 title_description: ""
 title_image: "http://www.gravatar.com/avatar/?d=identicon"
 google_analytics: ""
 disqus_account: 
-github_repository: 
-addthis_id: 
-post_limit: 5
+
 
 ##Defaults values for new posts
 

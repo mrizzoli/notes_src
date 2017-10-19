@@ -1,6 +1,6 @@
 ---
 published: true
-layout: essay
+layout: post
 categories: 
   - notes
 title: Notes on Neoliberism

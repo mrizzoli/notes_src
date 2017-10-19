@@ -5,7 +5,7 @@ date: 27-10-2016
 bibliography: ~/notes_src/biblio/biblio.bib
 categories:
  - notes
-layout: essay
+layout: post
 tags:
 - trust
 - social Capital

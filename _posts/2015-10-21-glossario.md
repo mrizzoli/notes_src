@@ -1,6 +1,6 @@
 ---
-published: false
-layout: essay
+published: true
+layout: post
 categories:
 - essay
 ---

@@ -4,7 +4,7 @@ date: 03-12-2015
 bibliography: ~/notes_src/biblio/biblio.bib
 categories:
  - notes
-layout: essay
+layout: post
 tags:
 - sop
 - third sector

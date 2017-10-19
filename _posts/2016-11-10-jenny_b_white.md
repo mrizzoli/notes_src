@@ -6,7 +6,7 @@ date: 10-11-2016
 bibliography: /home/mrizzoli/notes_src/biblio/biblio.bib
 categories: notes
 
-layout: essay
+layout: post
 
 tags:
 - civil society

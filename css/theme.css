@@ -36,7 +36,8 @@ html, body, button, input, select, textarea {
   font-weight: 300; }
 
 body {
-  padding-top: 80px;
+  padding-top: 100px;
+  height: 100%;
   color: #dddddd;
   background: #292929 url(./pics/triangles.png); }
 
@@ -48,6 +49,32 @@ body {
 
 .main-page {
   width: 75%; }
+
+.gravatar {
+  text-align: center; }
+
+.author-text {
+  text-align: center;
+  margin-top: 30px; }
+  .author-text b {
+    font-size: 32px; }
+
+.author-header {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 15px;
+  font-size: 30px; }
+
+.header {
+  margin-top: 10px;
+  margin-left: 0%;
+  margin-bottom: 0px;
+  font-size: 32px;
+  width: 100%; }
+
+.map {
+  text-align: center; }
 
 h1 {
   font-size: 2em; }
@@ -273,7 +300,6 @@ nav.shrink .navbar-toggle {
   background-color: #292c2f;
   font: normal 16px sans-serif;
   padding: 20px 25px;
-  margin-top: 80px;
   text-align: center;
   bottom: 0;
   left: 0;
